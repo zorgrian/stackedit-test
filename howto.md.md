@@ -92,7 +92,9 @@ Since one file can be published to multiple locations, you can list and manage p
 
 ## Make a new horizontal line
 
-Put this `***` where you want to make one, as the * token can't be confused with other toke
+Put this `***` where you want to make one, for the `*` token can't be confused with other tokens.
+
+A new ho
 
 ***
 
@@ -153,5 +155,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjU5NTA2Ml19
+eyJoaXN0b3J5IjpbLTk4MjA3MzM0XX0=
 -->
