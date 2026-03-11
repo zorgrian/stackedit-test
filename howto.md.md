@@ -35,18 +35,18 @@ Synchronisation is one of the biggest features of StackEdit. It enables you to s
 There are two types of synchronisation, and they can complement each other:
 
 - The workspace synchronisation will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
+	> To start syncing your workspace, just sign in with Github in the menu.
 
 - The file synchronisation will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
 	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
 
 ## Open a file
 
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
+You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronise** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
 
 ## Save a file
 
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
+You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronise** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
 
 ## Synchronize a file
 
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk4MTc1NjRdfQ==
+eyJoaXN0b3J5IjpbLTE3ODI1ODUwNjBdfQ==
 -->
