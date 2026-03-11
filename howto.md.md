@@ -7,7 +7,7 @@ This is a **Proper English** version of a **Guide to using StackEdit**. You can 
 
 **StackEdit** stores your files in your browser's memory, which means all your files are automatically saved locally and are accessible **offline!** 
 
-This is a **bummer**, as it totally wastes your browser's space. Then you will have to go and purge that rubbish, as it **will** accumulate.
+This is a total **bummer**, as it totally wastes your browser's space. Then you will have to go and purge that rubbish, as it **will** accumulate.
 
 ## Create files and folders
 
@@ -163,6 +163,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTQ3OTY1OSwtODI4MzU5OTg1LC0xND
-M2MjMyMDk4XX0=
+eyJoaXN0b3J5IjpbOTA4NzA5MzkxLC04MjgzNTk5ODUsLTE0Mz
+YyMzIwOThdfQ==
 -->
