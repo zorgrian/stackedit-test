@@ -18,7 +18,7 @@ A key differentiation of our method is the placement of the circuit tracks.
 
 **Before you begin construction, ensure you have the correct tools:**
 
-*   **Soldering Iron:** A temperature-controlled soldering iron with a heating element of approximately 50 Watts is essential. This provides the necessary thermal mass for effective soldering.
+*   **Soldering Iron:** A temperature-controlled soldering iron with a heating element of approximately 50 Watts is highly recommended. This provides the ideal thermal mass for effective soldering.
 *   **Solder:** We advise using good quality **60/40 multicore solder**. This type of solder flows easily and creates reliable joints.
 *   **Basic Tools:** Side cutters, tweezers, a multimeter, and a small screwdriver set.
 
@@ -28,11 +28,11 @@ Follow these steps to build your YooFab kit successfully.
 
 ### Step 1: Prepare the Components
 
-Lay out all the components from the kit and identify them using the provided parts list. It is good practice to check off each component as you identify it. Familiarise yourself with the PCB, noting the silkscreen labels that indicate where each part belongs.
+Using the parts list that is provided, lay out every component from the kit and identify it. Checking off each component as you find it is a good idea. Become familiar with the PCB, taking note of the silkscreen labels that show the locations of each component.
 
 ### Step 2: Prepare the Enclosure
 
-Your kit includes a metal box which will form the chassis. If required, fit any front-panel connectors, sockets, or switches into their designated holes before mounting the PCB.
+A metal box that will serve as the chassis is included in your kit. Before mounting the PCB, make sure that any switches, sockets, or connectors on the front panel are inserted into the appropriate holes.
 
 ### Step 3: solder the Components
 
@@ -65,5 +65,5 @@ Complete any final internal connections, such as wiring from the PCB to front-pa
 
 **Enjoy building your YooFab kit — where thoughtful design meets practical construction.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTkwMjIyNl19
+eyJoaXN0b3J5IjpbLTE5NjcyNzQ4MjEsMTg2MTkwMjIyNl19
 -->
