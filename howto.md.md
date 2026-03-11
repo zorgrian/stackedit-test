@@ -120,6 +120,8 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 **You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):**
 
+**This is called inline syntax:**
+
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
 
 $$
@@ -155,6 +157,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjExNDkwMjYsLTE0MzYyMzIwOThdfQ
+eyJoaXN0b3J5IjpbLTEyNjIxMjI4MzcsLTE0MzYyMzIwOThdfQ
 ==
 -->
