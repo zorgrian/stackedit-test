@@ -90,7 +90,9 @@ After publishing, StackEdit keeps your file linked to that publication, which ma
 
 Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
 
-## Make a new
+## Make a new horizontal line
+
+Put this `***` where you want to make one, as the * token can't be confused with other toke
 
 ***
 
@@ -151,5 +153,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzkwNjMzMzRdfQ==
+eyJoaXN0b3J5IjpbLTkxMjU5NTA2Ml19
 -->
