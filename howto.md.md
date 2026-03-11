@@ -90,6 +90,9 @@ After publishing, StackEdit keeps your file linked to that publication, which ma
 
 Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
 
+## Make a new
+
+***
 
 # Markdown extensions
 
@@ -124,7 +127,7 @@ $$
 
 ## UML diagrams
 
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). **For example, this will produce a sequence diagram:**
 
 ```mermaid
 sequenceDiagram
@@ -138,7 +141,7 @@ Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
 
-And this will produce a flow chart:
+**And this will produce a flow chart:**
 
 ```mermaid
 graph LR
@@ -148,5 +151,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY1ODA5NTddfQ==
+eyJoaXN0b3J5IjpbLTE0NzkwNjMzMzRdfQ==
 -->
