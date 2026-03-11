@@ -36,9 +36,9 @@ A metal box that will serve as the chassis is included in your kit. Before mount
 
 ### Step 3: solder the Components
 
-This is the most critical phase. Work methodically, typically starting with the smallest and flattest components (resistors, diodes) and progressing to taller ones (capacitors, connectors).
+The most important stage is this one. Work methodically, usually beginning with the flattest and smallest parts (diodes, resistors) and working your way up to the taller ones (capacitors, connectors).
 
-**Best Practices for Soldering:**
+**The Best Soldering Practices:**
 
 *   **Insert the Component:** Place the component legs through the correct holes on the PCB.
 *   **Bend the Legs:** Slightly bend the legs on the solder-side to hold the component in place.
@@ -65,5 +65,5 @@ Complete any final internal connections, such as wiring from the PCB to front-pa
 
 **Enjoy building your YooFab kit — where thoughtful design meets practical construction.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjcyNzQ4MjEsMTg2MTkwMjIyNl19
+eyJoaXN0b3J5IjpbLTcwMzIyNDk4LDE4NjE5MDIyMjZdfQ==
 -->
