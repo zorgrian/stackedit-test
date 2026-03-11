@@ -124,6 +124,8 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
 
+**This is called display syntax:**
+
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
@@ -157,6 +159,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjIxMjI4MzcsLTE0MzYyMzIwOThdfQ
-==
+eyJoaXN0b3J5IjpbMjEzNDk0MzkzMywtMTQzNjIzMjA5OF19
 -->
