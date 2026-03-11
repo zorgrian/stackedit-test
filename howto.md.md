@@ -107,7 +107,7 @@ A new horizontal line has been inserted below, and it uses the syntax shown abov
 StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
 
 > **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
+> No explanation of this is provided anywhere.
 
 ## SmartyPants
 
@@ -163,6 +163,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTQ5MzI1NiwtMTYxNTAyMTU1MywtOD
+eyJoaXN0b3J5IjpbLTQ1MjAwNTAzMywtMTYxNTAyMTU1MywtOD
 I4MzU5OTg1LC0xNDM2MjMyMDk4XX0=
 -->
