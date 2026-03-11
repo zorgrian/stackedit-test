@@ -1,13 +1,13 @@
 # Welcome to StackEdit!
 
-This is a **Proper English** version of a **Hot To Guide using StackEdit**. If you are keen to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you may create new files by opening the **file explorer** on the left corner of the navigation bar ⇾ **Don't banjax it up.**
+This is a **Proper English** version of a **Guide to using StackEdit**. If you are keen to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you may create new files by opening the **file explorer** on the left corner of the navigation bar ⇾ **Don't banjax it up.**
 
 
 # Files
 
-StackEdit stores your files in your browser's memory, which means all your files are automatically saved locally and are accessible **offline!** 
+**StackEdit** stores your files in your browser's memory, which means all your files are automatically saved locally and are accessible **offline!** 
 
-This is a bummer, as it totally wastes your browser's space. Then you have to go and purge that rubbish 
+This is a bummer, as it totally wastes your browser's space. Then you have to go and purge that rubbish, as it **will** accumulate.
 
 ## Create files and folders
 
@@ -144,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzNDI0MTZdfQ==
+eyJoaXN0b3J5IjpbLTY0NjU1MzExMF19
 -->
