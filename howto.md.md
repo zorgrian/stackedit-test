@@ -107,7 +107,7 @@ StackEdit extends the standard Markdown syntax by adding extra **Markdown extens
 
 ## SmartyPants
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. **For example:**
 
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
@@ -155,5 +155,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzYyMzIwOThdfQ==
+eyJoaXN0b3J5IjpbLTE1NjExNDkwMjYsLTE0MzYyMzIwOThdfQ
+==
 -->
