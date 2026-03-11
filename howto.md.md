@@ -116,7 +116,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
 |Single Quotes|'Isn't this fun?            |Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Double Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
@@ -163,6 +163,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODA5ODY5OTksLTQ1MjAwNTAzMywtMT
-YxNTAyMTU1MywtODI4MzU5OTg1LC0xNDM2MjMyMDk4XX0=
+eyJoaXN0b3J5IjpbLTMyODc5MDM0MiwtNDUyMDA1MDMzLC0xNj
+E1MDIxNTUzLC04MjgzNTk5ODUsLTE0MzYyMzIwOThdfQ==
 -->
