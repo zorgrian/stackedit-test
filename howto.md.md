@@ -15,7 +15,7 @@ The file **explorer** is accessible using the button in the left corner of the n
 
 ## Navigate to another file
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+All your **files** and **folders** are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
 ## Rename a file
 
@@ -163,6 +163,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4NzA5MzkxLC04MjgzNTk5ODUsLTE0Mz
-YyMzIwOThdfQ==
+eyJoaXN0b3J5IjpbLTE2MTUwMjE1NTMsLTgyODM1OTk4NSwtMT
+QzNjIzMjA5OF19
 -->
