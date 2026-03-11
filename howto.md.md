@@ -36,7 +36,7 @@ Use the source-code, which is on the left-hand pain. Do control+A, and then do c
 
 # Synchronisation
 
-Synchronisation is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronisation mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
+Synchronisation is one of the biggest features of StackEdit. It enables you to synchronise any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronisation mechanism takes place every minute in the background, downloading, merging, and uploading file modifications. **Note:** Google Drive doe
 
 There are two types of synchronisation, and they can complement each other:
 
@@ -148,5 +148,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgxNjkwNzFdfQ==
+eyJoaXN0b3J5IjpbNjE3Njc3MjMzXX0=
 -->
