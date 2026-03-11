@@ -131,7 +131,7 @@ $$
 $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
+> This will almost cerainly be in YankSide English, which isn't 
 
 ## UML diagrams
 
@@ -159,5 +159,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDk0MzkzMywtMTQzNjIzMjA5OF19
+eyJoaXN0b3J5IjpbLTY2NTYzNTAwLC0xNDM2MjMyMDk4XX0=
 -->
