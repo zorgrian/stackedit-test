@@ -19,7 +19,7 @@ All your files and folders are presented as a tree in the file explorer. You can
 
 ## Rename a file
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+You can rename the current file by clicking the file name in the navigation bar or by clicking the **|Rename Button|** in the file explorer.
 
 ## Delete a file
 
@@ -159,5 +159,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODM1OTk4NSwtMTQzNjIzMjA5OF19
+eyJoaXN0b3J5IjpbMTg1MDkyMzkzNSwtODI4MzU5OTg1LC0xND
+M2MjMyMDk4XX0=
 -->
