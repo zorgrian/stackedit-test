@@ -5,6 +5,9 @@ It is now **possible** to see whether this is effective. This is not a manual, i
 **Most Important:**
 * Never give up
 * Never surrender
+* Go to bed
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc0MTQ4NzQsOTc3Mjg0NThdfQ==
+eyJoaXN0b3J5IjpbLTEyMDM2MjgxNzYsLTEyMjc0MTQ4NzQsOT
+c3Mjg0NThdfQ==
 -->
