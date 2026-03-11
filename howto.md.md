@@ -1,6 +1,6 @@
 # Welcome to StackEdit!
 
-This is a **Proper English** version of a **Guide to using StackEdit**. If you are keen to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you may create new files by opening the **file explorer** on the left corner of the navigation bar ⇾ **Don't banjax it up.**
+This is a **Proper English** version of a **Guide to using StackEdit**. You can read this guide if you want to learn more about StackEdit. If you would like to experiment with Markdown, you can edit this file. Once you have finished with me, you may create new files by opening the **file explorer** on the left corner of the navigation bar ⇾ **Don't banjax it up.**
 
 
 # Files
@@ -144,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjU1MzExMF19
+eyJoaXN0b3J5IjpbMTg0MzQxOTYzN119
 -->
