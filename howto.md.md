@@ -29,6 +29,10 @@ You can delete the current file by clicking the **Remove** button in the file ex
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template, or as a PDF.
 
+## Copy to Typora, or another Markdown editor
+
+Use the source-code  
+
 
 # Synchronisation
 
@@ -144,5 +148,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU5NDAzNDZdfQ==
+eyJoaXN0b3J5IjpbLTE4OTI1NDQ4NDRdfQ==
 -->
