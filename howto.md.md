@@ -31,7 +31,11 @@ You can export the current file by clicking **Export to disk** in the menu. You 
 
 ## Copy to Typora, or another Markdown editor
 
-Use the source-code, which is on the left-hand pain. Do control+A, and then do control+C. The entire contents of the source-code are then in your clipboard. Once in Typora, use control+V. In other words, this works like any other system on a computer.
+**Use the source-code, which is on the left-hand pain:** 
+* Do control+A, and then do control+C. 
+* The entire contents of the source-code are then in your clipboard. 
+* Once in Typora, use control+V. 
+* In other words, this works like any other system on a computer.
 
 
 # Synchronisation
@@ -159,6 +163,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDkyMzkzNSwtODI4MzU5OTg1LC0xND
+eyJoaXN0b3J5IjpbMTI0NTQ3OTY1OSwtODI4MzU5OTg1LC0xND
 M2MjMyMDk4XX0=
 -->
