@@ -111,7 +111,7 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 ## KaTeX
 
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
+**You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):**
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
 
@@ -148,5 +148,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDE3MjQ0NV19
+eyJoaXN0b3J5IjpbLTIwMzY1ODA5NTddfQ==
 -->
