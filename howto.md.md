@@ -48,17 +48,17 @@ You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening 
 
 You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronise** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
 
-## Synchronize a file
+## Synchronise a file
 
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
+Once your file is linked to a synchronized location, StackEdit will periodically synchronise it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
 
 If you have just modified your file, and you want to force syncing, click the **Synchronize now** button in the navigation bar.
 
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+> **Note:** The **Synchronise now** button is disabled if you have no file to synchronise.
 
-## Manage file synchronization
+## Manage file synchronisation
 
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronisation** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
 
 
 # Publication
@@ -71,12 +71,12 @@ Publishing in StackEdit makes it simple for you to publish online your files. On
 
 You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
 
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
+- Markdown: publish the Markdown text on a website that can interpret it (**GitHub,** for instance),
+- HTML: publish the file converted to HTML via a Handlebars template (on a blog, for example).
 
 ## Update a publication
 
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
+After publishing, StackEdit keeps your file linked to that publication, which makes it easy for you to re-publish it. Once you have modified your file, and you want to update your publication, click on the **Publish now** button in the navigation bar.
 
 > **Note:** The **Publish now** button is disabled if your file has not been published yet.
 
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI1ODUwNjBdfQ==
+eyJoaXN0b3J5IjpbMTk3MjY1OTA2Nl19
 -->
