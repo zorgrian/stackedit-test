@@ -36,7 +36,7 @@ Use the source-code, which is on the left-hand pain. Do control+A, and then do c
 
 # Synchronisation
 
-Synchronisation is one of the biggest features of StackEdit. It enables you to synchronise any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronisation mechanism takes place every minute in the background, downloading, merging, and uploading file modifications. **Note:** Google Drive doesn't work properly. You'll never find those files again, and they slip away, or seemingly so, as the files waste your browser's memory
+Synchronisation is one of the biggest features of StackEdit. It enables you to synchronise any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other **devices[^dev]**, collaborate with people you share the file with, integrate easily into your workflow... The synchronisation mechanism takes place every minute in the background, downloading, merging, and uploading file modifications. **Note:** Google Drive doesn't work properly. You'll never find those files again, and they slip away, or seemingly so, as the files waste your browser's memory.
 
 There are two types of synchronisation, and they can complement each other:
 
@@ -56,15 +56,15 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 ## Synchronise a file
 
-Once your file is linked to a synchronized location, StackEdit will periodically synchronise it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
+Once your file is linked to a synchronised location, StackEdit will periodically synchronise it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
 
-If you have just modified your file, and you want to force syncing, click the **Synchronize now** button in the navigation bar.
+If you have just modified your file, and you want to force syncing, click the **Synchronise now** button in the navigation bar.
 
 > **Note:** The **Synchronise now** button is disabled if you have no file to synchronise.
 
 ## Manage file synchronisation
 
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronisation** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+Since one file can be synced with multiple locations, you can list and manage synchronised locations by clicking **File synchronisation** in the **Synchronise** sub-menu. This allows you to list and remove synchronised locations that are linked to your file.
 
 
 # Publication
@@ -148,5 +148,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjczMzU4MV19
+eyJoaXN0b3J5IjpbLTI1MDE3MjQ0NV19
 -->
