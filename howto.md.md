@@ -31,7 +31,7 @@ You can export the current file by clicking **Export to disk** in the menu. You 
 
 ## Copy to Typora, or another Markdown editor
 
-Use the source-code  
+Use the source-code, which is on the left-hand pain. Do Control+A, and then do Control+ 
 
 
 # Synchronisation
@@ -148,5 +148,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI1NDQ4NDRdfQ==
+eyJoaXN0b3J5IjpbMzAyNTk3MTQxXX0=
 -->
