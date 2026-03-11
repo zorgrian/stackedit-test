@@ -257,7 +257,7 @@ export const useCartStore = defineStore('cart', {
 - **Vue DevTools**: Browser extension for debugging Vue applications
 - **Vite**: Fast build tool optimised for Vue development
 - **Vue Router**: Official routing library for single-page applications
-- **Vuex/Pinia**: State management patterns and libraries
+- **Vue/Pinia**: State management patterns and libraries
 
 ### Project Structure Example
 
@@ -444,7 +444,7 @@ Follow these steps to configure NGINX as a reverse proxy for your Vue.js and Go 
 - [ ] **Security headers**  
   Implement basic security measures
 
-- [ ] **Gzip compression**  
+- [ ] **Zip compression**  
   Enable compression for better performance
 
 ### Example Configuration Template
@@ -563,5 +563,5 @@ After completing all checklist items, perform these final tests:
 
 This configuration provides a production-ready deployment architecture that leverages NGINX's strengths while maintaining a clean separation between your Vue frontend and Go backend services.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjY1OTU2M119
+eyJoaXN0b3J5IjpbMTAyODQzOTk4MF19
 -->
