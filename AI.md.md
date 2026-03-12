@@ -11,10 +11,10 @@ Still, AI has limits. It doesn’t understand truth or emotion — it predicts w
 We rely on AI more than ever — from smart assistants to fraud detection. Used wisely, it saves time and unlocks creativity. But it must be built and checked carefully — because its power comes from our data, not its own wisdom.
 
 ***
-Arguably, the first AI to hit the headlines, and become popular, was ChatGPT. Unfortunately, the em-dash became associated with ChatGPT. In some circles, the em-dash — itself — is known as the ChatGPT dash. Although inaccurate,  Wikipedia will **not** accept articles written with any em-dashes.
+Arguably, the first AI to hit the headlines, and become popular, was ChatGPT. Unfortunately, the em-dash became associated with ChatGPT. In some circles, the em-dash — itself — is known as the ChatGPT dash. Although inaccurate,  Wikipedia will **not** accept articles written with any em-dashes. That is, unless you are a known Wikipedian.
 
 **Summary:**  
 AI is software that learns from data to mimic human tasks — writing, deciding, recognising images. It thrives on patterns, not understanding. While powerful and useful, it can make mistakes or reflect biases. Responsible use means checking outputs and guiding its training.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ5NDAxMzRdfQ==
+eyJoaXN0b3J5IjpbLTc4OTI0MDY4N119
 -->
