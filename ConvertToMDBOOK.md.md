@@ -19,7 +19,7 @@ mdBook supports partial templates through its templating system. You can add Mat
 ### Implementation Approach:
 
 1. **Create custom header partial**
-```
+```html
 <!-- In theme/head.hbs -->
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script type="module">
@@ -57,5 +57,5 @@ additional-css = ["custom.css"]
 
 I cannot access external websites or perform web searches. The information provided is based on general knowledge of static site generators and documentation tools. For details about YOOFAB's current implementation, you would need to examine the project's actual configuration and content structure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Nzg3NzgwXX0=
+eyJoaXN0b3J5IjpbLTE3OTA5NzgzODUsMTM3Nzg3NzgwXX0=
 -->
