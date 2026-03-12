@@ -14,7 +14,7 @@ Every residential plumbing system is divided into two distinct, parallel network
 This system brings fresh, clean water into the house. It operates under pressure, typically between 2–4 bar, supplied either directly from the mains or via a cold-water storage tank in the loft.
 
 *   **Main Components:**
-    *   **Stop Valve (Stopcock):** The primary shut-off valve, usually located under the kitchen sink or where the mains enter the property.
+    *   **Stop Valve (Stopcock):** The primary shut-off valve, usually located under the kitchen sink or where the **mains** enter the property.
     *   **Rising Main:** The pipe from the water company's external stop tap into the house.
     *   **Cold Water Storage Cistern (CWSC):** In traditional UK systems, this tank in the loft feeds bathroom cold taps, toilets, and the hot water cylinder.
     *   **Distribution Pipes:** A network of pipes (typically 15mm or 22mm copper or plastic) that branch off to supply individual fixtures.
@@ -111,5 +111,5 @@ While minor tasks are DIY-friendly, certain situations require a qualified plumb
 
 A well-designed and maintained plumbing system is fundamental to a safe, comfortable, and efficient home. By understanding its two core systems, respecting installation principles, and performing basic maintenance, homeowners can prevent many common issues. For complex installations, alterations, or persistent problems, investing in a qualified professional is not just advisable — it is essential for protecting your property's value and safety. Remember, the most cost-effective plumbing work is often the preventative kind.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNTg2NTg2XX0=
+eyJoaXN0b3J5IjpbMzgzNzI1MDE4LDM2MDU4NjU4Nl19
 -->
