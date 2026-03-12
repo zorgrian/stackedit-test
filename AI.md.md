@@ -4,7 +4,7 @@ Artificial Intelligence — or AI — is computer **software** that can learn, r
 
 AI works by spotting trends in large amounts of information. For example, it learns which words usually follow others — then uses that to write replies. It improves over time through training, often with millions of examples. Some AI even helps doctors spot diseases or assists drivers with navigation.
 
-Not all AI is the same. Simple tools follow fixed rules — like a calculator. Advanced AI, such as Large Language Models (LLMs), can adapt and create new content. These models are trained on books, websites, and conversations — making them surprisingly fluent.
+**Not all AI is the same.** Simple tools follow fixed rules — like a calculator. Advanced AI, such as Large Language Models (LLMs), can adapt and create new content. These models are trained on books, websites, and conversations — making them surprisingly fluent.
 
 Still, AI has limits. It doesn’t understand truth or emotion — it predicts what’s likely based on past data. Sometimes it makes things up — called “hallucinations.” Bias in training data can also lead to unfair or misleading results.
 
@@ -15,5 +15,5 @@ We rely on AI more than ever — from smart assistants to fraud detection. Used 
 **Summary:**  
 AI is software that learns from data to mimic human tasks — writing, deciding, recognising images. It thrives on patterns, not understanding. While powerful and useful, it can make mistakes or reflect biases. Responsible use means checking outputs and guiding its training.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjM0MTMyN119
+eyJoaXN0b3J5IjpbODQ5NjYxNTUzXX0=
 -->
