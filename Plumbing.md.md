@@ -40,7 +40,7 @@ The choice of material affects durability, cost, and installation method.
 | **Copper** | Supply lines, heating. | Durable, long-lasting, resistant to corrosion. | Expensive, requires skilled soldering. |
 | **PEX (Cross-linked Polyethylene)**| Supply lines. | Flexible, easy to install, freeze-resistant. | Cannot be used outdoors (UV sensitive). |
 | **PVC/ABS Plastic** | Drain-waste-vent lines. | Inexpensive, easy to cut and glue, corrosion-proof. | Can become brittle, not for hot supply lines. |
-| **Polybutylene (PB)** | *Legacy* supply lines. | Was inexpensive and flexible. | Prone to failure at fittings; now discontinued. |
+| **Polyethylene (PB)** | *Legacy* supply lines. | Was inexpensive and flexible. | Prone to failure at fittings; now discontinued. |
 
 ***
 
@@ -88,7 +88,7 @@ Proactive care prevents most major plumbing disasters.
 | **Low Water Pressure** | Partially closed valve, clogged aerator, limescale in pipes. | Check isolation valves, clean tap filters. |
 | **Slow Draining Sink** | Blockage in trap or waste pipe. | Use a plunger, then check/clean the U-bend. |
 | **Gurgling Drains** | Blocked vent pipe or partial drain blockage. | Check for blockages in roof vent or near drain access points. |
-| **Dripping Tap** | Worn washer or cartridge. | Replace washer or cartridge — turn off water first. |
+| **Dripping Tap** | worn washer or cartridge. | Replace washer or cartridge — turn off water first. |
 | **Running Toilet** | Faulty flush valve or fill valve. | Adjust or replace the flapper or fill valve mechanism. |
 | **No Hot Water** | Boiler/pilot light issue, failed immersion heater, airlock. | Check boiler status, reset thermostat, bleed air from pipes. |
 
@@ -111,5 +111,5 @@ While minor tasks are DIY-friendly, certain situations require a qualified plumb
 
 A well-designed and maintained plumbing system is fundamental to a safe, comfortable, and efficient home. By understanding its two core systems, respecting installation principles, and performing basic maintenance, homeowners can prevent many common issues. For complex installations, alterations, or persistent problems, investing in a qualified professional is not just advisable — it is essential for protecting your property's value and safety. Remember, the most cost-effective plumbing work is often the preventative kind.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyMzA3MDQyXX0=
+eyJoaXN0b3J5IjpbMzYwNTg2NTg2XX0=
 -->
