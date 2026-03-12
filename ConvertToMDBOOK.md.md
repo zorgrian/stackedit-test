@@ -4,13 +4,13 @@ Yes, you can migrate YOOFAB from MkDocs to mdBook while reusing your existing Ma
 
 ## Compatibility Overview
 
-**Basic Migration**: 
+**Basic Migration:**
 Your Markdown content will largely work without modification, since both tools support standard Markdown syntax.
 
-**Key Differences**:
-- mdBook has a different configuration approach (TOML vs YAML)
-- Some MkDocs-specific features require adaptation
-- Theme customisation works differently
+**Key Differences:**
+* mdBook has a different configuration approach (TOML vs YAML)
+* Some MkDocs-specific features require adaptation
+* Theme customisation works differently
 
 ## Using Partials with mdBook
 
@@ -57,5 +57,5 @@ additional-css = ["custom.css"]
 
 I cannot access external websites or perform web searches. The information provided is based on general knowledge of static site generators and documentation tools. For details about YOOFAB's current implementation, you would need to examine the project's actual configuration and content structure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDAyMTYzMzNdfQ==
+eyJoaXN0b3J5IjpbMTM3Nzg3NzgwXX0=
 -->
