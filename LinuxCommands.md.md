@@ -287,7 +287,7 @@ sudo apt install package
 sudo apt remove package
 ```
 
----
+***
 
 # System Logs
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTU1MjI5Nyw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbMTYyOTA3ODc2NCw5NDk0MTE4OF19
 -->
