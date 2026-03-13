@@ -299,7 +299,7 @@ journalctl
 ```
 journalctl -xe
 ```
-Recent errors.
+**Recent errors:**
 
 ```bash
 journalctl -u service
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNzU5OTQwLDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbMTE5ODgzNDg5Niw5NDk0MTE4OF19
 -->
