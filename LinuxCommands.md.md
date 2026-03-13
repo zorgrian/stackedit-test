@@ -1,6 +1,6 @@
 # 🧱Useful Linux Commands
 These are ostrich-powered🪶
----
+***
 
 ## System Information
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzU3NjIzMSw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbLTIxMzgzMDM1NjIsOTQ5NDExODhdfQ==
 -->
