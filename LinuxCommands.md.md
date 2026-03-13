@@ -136,7 +136,7 @@ cat file
 ```
 Display file.
 
-```
+```bash
 less file
 ```
 Scrollable viewer.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzMjUwNjksOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbLTE1MTE3OTU5MSw5NDk0MTE4OF19
 -->
