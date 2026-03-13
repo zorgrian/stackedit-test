@@ -103,7 +103,7 @@ mkdir -p path/to/dir
 ```
 Create nested directories.
 
----
+***
 
 # File Searching
 
@@ -192,12 +192,12 @@ Change ownership.
 
 ---
 
-# Disk and Filesystems
+# Disk and File systems
 
 ```
 mount
 ```
-Show mounted filesystems.
+Show mounted file systems.
 
 ```
 mount -a
@@ -265,7 +265,7 @@ Terminate process.
 ```
 kill -9 PID
 ```
-Force terminate process.
+Force terminates process.
 
 ---
 
@@ -356,7 +356,7 @@ rsync -avz user@host:/path/ destination/
 
 ---
 
-## scp
+## `scp`
 
 Secure copy over SSH.
 
@@ -496,5 +496,5 @@ watch -d command
 
 Highlight changing output.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjgxNDE5Ml19
+eyJoaXN0b3J5IjpbMTgxMDI3ODY5MF19
 -->
