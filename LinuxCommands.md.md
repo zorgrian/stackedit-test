@@ -127,7 +127,7 @@ which program
 ```
 Show program location.
 
----
+***
 
 # Text Processing
 
@@ -209,7 +209,7 @@ blkid
 ```
 Show filesystem UUIDs.
 
----
+***
 
 # Networking
 
@@ -238,7 +238,7 @@ curl ifconfig.me
 ```
 Show public IP.
 
----
+***
 
 # Processes
 
@@ -267,7 +267,7 @@ kill -9 PID
 ```
 Force terminates process.
 
----
+***
 
 # Package Management (Debian / Ubuntu)
 
@@ -306,7 +306,7 @@ journalctl -u service
 ```
 Logs for a service.
 
----
+***
 
 # systemctl
 
@@ -496,5 +496,5 @@ watch -d command
 
 Highlight changing output.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDI3ODY5MF19
+eyJoaXN0b3J5IjpbLTQyMTEzMzE3M119
 -->
