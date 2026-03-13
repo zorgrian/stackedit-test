@@ -68,7 +68,7 @@ tree
 ```
 Display directory tree.
 
-```
+```bash
 cp source dest
 ```
 Copy file.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjYzMjY0LDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbMzc2MDk2MjQ0LDk0OTQxMTg4XX0=
 -->
