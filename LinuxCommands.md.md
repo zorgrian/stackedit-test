@@ -146,7 +146,7 @@ head file
 ```
 First lines.
 
-```
+```bash
 tail file
 ```
 Last lines.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE3OTU5MSw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbLTEyMjQyMTIyNTEsOTQ5NDExODhdfQ==
 -->
