@@ -482,7 +482,7 @@ nc localhost 80
 
 Trace system calls.
 
-```
+```bash
 strace program
 ```
 
@@ -490,11 +490,17 @@ strace program
 
 ## watch differences
 
-```
+```bash
 watch -d command
 ```
 
 Highlight changing output.
+
+## The quick terminal method (very fast)
+
+```bash
+sudo du -xh / --max-depth=1 2>/dev/null | sort -h
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbLTE5NDg5MTc3NzksOTQ5NDExODhdfQ==
 -->
