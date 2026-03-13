@@ -672,7 +672,7 @@ Then to actually use this:
 ```bash
 nvtop
 ```
-This is an awsome command, 
+This is an astonishing command, as it shows the whole ostrich.
 
 ----------
 
@@ -680,7 +680,7 @@ This is an awsome command,
 
 This document can be extended over time as additional useful commands are discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkwNDE3NTUsNzE4NTk1ODc4LDM0Nj
+eyJoaXN0b3J5IjpbLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0Nj
 E1MzYyMiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4
 XX0=
 -->
