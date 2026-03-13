@@ -216,9 +216,9 @@ Show filesystem UUIDs.
 ```
 ip a
 ```
-Show network interfaces.
+**Show network interfaces:**
 
-```
+```bash
 ip r
 ```
 Routing table.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODgzNDg5Niw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbMTA5Nzk0MzUxMiw5NDk0MTE4OF19
 -->
