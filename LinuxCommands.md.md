@@ -358,7 +358,7 @@ rsync -avz user@host:/path/ destination/
 
 ## `scp`
 
-Secure copy over SSH.
+**Secure copy over SSH.**
 
 ```bash
 scp file user@host:/path/
@@ -376,7 +376,7 @@ scp -r directory user@host:/path/
 scp file user@host:/path/newname
 ```
 
----
+***
 
 ## `ssh`
 
@@ -486,7 +486,7 @@ Trace system calls.
 strace program
 ```
 
----
+***
 
 ## watch differences
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTIxMzAyMCw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbMTgwNzg3MDAyMCw5NDk0MTE4OF19
 -->
