@@ -328,7 +328,7 @@ systemctl stop service
 
 ### rsync
 
-Efficient file synchronisation.
+**Efficient file synchronisation.**
 
 ```bash
 rsync -av source/ destination/
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzg3MDAyMCw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbLTY5MzUzOTUxNiw5NDk0MTE4OF19
 -->
