@@ -502,7 +502,7 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 
-It's important to not  
+Keep in mind that you can add more Linux commands to this list. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIwMDMxMzAsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
 -->
