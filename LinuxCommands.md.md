@@ -422,7 +422,7 @@ watch -n 2 df -h
 
 Build command arguments from input.
 
-```
+```bash
 find . -name "*.log" | xargs rm
 ```
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDY3OTE3OSw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbMjQyOTM5MjEsOTQ5NDExODhdfQ==
 -->
