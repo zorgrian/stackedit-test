@@ -664,10 +664,10 @@ sudo du -ah / | sort -rh | head -20
 
 ----------
 
-### Note
+### Note:
 
 This document can be extended over time as additional useful commands are discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MTUzNjIyLDE5OTg4MDMwODAsLTIwNj
-E0MzI3NTIsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbNzE4NTk1ODc4LDM0NjE1MzYyMiwxOTk4OD
+AzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
