@@ -506,8 +506,8 @@ sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 du -h --max-depth=1 /home/zorgrian | sort -h
 ```
 
-Keep in mind that you can add more Linux commands to this list. 
+### Keep in mind that you can add more Linux commands to this list. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyNjU5MjM3LC0yMDYxNDMyNzUyLDk0OT
-QxMTg4XX0=
+eyJoaXN0b3J5IjpbMTk5ODgwMzA4MCwtMjA2MTQzMjc1Miw5ND
+k0MTE4OF19
 -->
