@@ -56,7 +56,7 @@ Directory sizes in current directory.
 
 ***
 
-## Files and Directories
+## 🗃️Files and Directories
 
 ```bash
 ls -lah
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDcyMTM4OTgsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbODUzMjUwNjksOTQ5NDExODhdfQ==
 -->
