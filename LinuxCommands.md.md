@@ -107,7 +107,7 @@ Create nested directories.
 
 ## File Searching
 
-```
+```bash
 find . -name "filename"
 ```
 Find file by name.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI3MDE1MzIsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbMTYwMTI3NjUzNiw5NDk0MTE4OF19
 -->
