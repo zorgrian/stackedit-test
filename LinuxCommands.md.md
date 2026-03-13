@@ -112,17 +112,17 @@ find . -name "filename"
 ```
 Find file by name.
 
-```
+```bash
 find . -type f -size +100M
 ```
 Find files larger than 100MB.
 
-```
+```bash
 locate filename
 ```
-Fast indexed search.
+**Fast indexed search:**
 
-```
+```bash
 which program
 ```
 Show program location.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Nzk0MzUxMiw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbMTQ1NDAxNzUwNCw5NDk0MTE4OF19
 -->
