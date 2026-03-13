@@ -338,15 +338,15 @@ rsync -av source/ destination/
 rsync -av source/ user@host:/path/
 ```
 
-```
+```bash
 rsync -av user@host:/path/ destination/
 ```
 
-```
+```bash
 rsync -av --progress source/ destination/
 ```
 
-```
+```bash
 rsync -av --delete source/ destination/
 ```
 
@@ -360,19 +360,19 @@ rsync -avz user@host:/path/ destination/
 
 Secure copy over SSH.
 
-```
+```bash
 scp file user@host:/path/
 ```
 
-```
+```bash
 scp user@host:/path/file .
 ```
 
-```
+```bash
 scp -r directory user@host:/path/
 ```
 
-```
+```bash
 scp file user@host:/path/newname
 ```
 
@@ -382,19 +382,19 @@ scp file user@host:/path/newname
 
 Remote login.
 
-```
+```bash
 ssh user@host
 ```
 
-```
+```bash
 ssh user@host "command"
 ```
 
-```
+```bash
 ssh -X user@host
 ```
 
-```
+```bash
 ssh -p 2222 user@host
 ```
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODkyNDI3LDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbLTIwNTUyODM5LDk0OTQxMTg4XX0=
 -->
