@@ -322,7 +322,7 @@ systemctl start service
 systemctl stop service
 ```
 
----
+***
 
 # File Transfer
 
@@ -354,7 +354,7 @@ rsync -av --delete source/ destination/
 rsync -avz user@host:/path/ destination/
 ```
 
----
+***
 
 ## `scp`
 
@@ -378,7 +378,7 @@ scp file user@host:/path/newname
 
 ---
 
-# ssh
+# `ssh`
 
 Remote login.
 
@@ -398,7 +398,7 @@ ssh -X user@host
 ssh -p 2222 user@host
 ```
 
----
+***
 
 # Terminal Power Tools
 
@@ -416,7 +416,7 @@ Example:
 watch -n 2 df -h
 ```
 
----
+***
 
 ## xargs
 
@@ -426,7 +426,7 @@ Build command arguments from input.
 find . -name "*.log" | xargs rm
 ```
 
----
+***
 
 ## tee
 
@@ -460,7 +460,7 @@ lsof
 lsof -i :80
 ```
 
----
+***
 
 ## `nc (netcat)`
 
@@ -496,5 +496,5 @@ watch -d command
 
 Highlight changing output.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTEzMzE3M119
+eyJoaXN0b3J5IjpbNjgzMzY4NzFdfQ==
 -->
