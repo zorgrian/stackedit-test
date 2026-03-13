@@ -125,7 +125,7 @@ locate filename
 ```bash
 which program
 ```
-**Show program location:**
+**Shows the program location.**
 
 ***
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDAwMjAwLDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbLTExNTI3MDE1MzIsOTQ5NDExODhdfQ==
 -->
