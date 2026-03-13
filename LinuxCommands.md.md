@@ -81,24 +81,24 @@ Copy directory recursively.
 ```
 mv old new
 ```
-Move or rename file.
+**Move or rename file:**
 
-```
+```bash
 rm file
 ```
 Delete file.
 
-```
+```bash
 rm -r directory
 ```
 Delete directory.
 
-```
+```bash
 mkdir name
 ```
 Create directory.
 
-```
+```bash
 mkdir -p path/to/dir
 ```
 Create nested directories.
@@ -125,7 +125,7 @@ locate filename
 ```bash
 which program
 ```
-Show program location.
+**Show program location:**
 
 ***
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDAxNzUwNCw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbLTgzMDAwMjAwLDk0OTQxMTg4XX0=
 -->
