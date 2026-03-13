@@ -476,7 +476,7 @@ Example:
 nc localhost 80
 ```
 
----
+***
 
 ## `strace`
 
@@ -496,5 +496,5 @@ watch -d command
 
 Highlight changing output.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzMzY4NzFdfQ==
+eyJoaXN0b3J5IjpbOTQ5NDExODhdfQ==
 -->
