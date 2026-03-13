@@ -156,17 +156,17 @@ tail -f logfile
 ```
 Follow a log file live.
 
-```
+```bash
 grep "text" file
 ```
 Search text.
 
-```
+```bash
 grep -r "text" directory
 ```
 Recursive search.
 
-```
+```bash
 wc -l file
 ```
 Count lines.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDcyMzIxNyw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbMTQyNjg1MjAyOSw5NDk0MTE4OF19
 -->
