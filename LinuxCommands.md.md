@@ -294,7 +294,7 @@ sudo apt remove package
 ```
 journalctl
 ```
-System logs.
+**System logs:**
 
 ```
 journalctl -xe
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDI5OTU5Miw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbMzcxNzU5OTQwLDk0OTQxMTg4XX0=
 -->
