@@ -310,15 +310,15 @@ Logs for a service.
 
 # systemctl
 
-```
+```bash
 systemctl status service
 ```
 
-```
+```bash
 systemctl start service
 ```
 
-```
+```bash
 systemctl stop service
 ```
 
@@ -330,11 +330,11 @@ systemctl stop service
 
 Efficient file synchronisation.
 
-```
+```bash
 rsync -av source/ destination/
 ```
 
-```
+```bash
 rsync -av source/ user@host:/path/
 ```
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUyODM5LDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbLTEyODcwNTk4NDMsOTQ5NDExODhdfQ==
 -->
