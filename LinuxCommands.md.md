@@ -666,7 +666,13 @@ sudo du -ah / | sort -rh | head -20
 
 ### GPU activity
 ```bash
-
+sudo apt install nvtop
+```
+Then to actually use this:
+```bash
+nvtop
+```
+This is an awsome command, 
 
 ----------
 
@@ -674,7 +680,7 @@ sudo du -ah / | sort -rh | head -20
 
 This document can be extended over time as additional useful commands are discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyODU3NjYwLDcxODU5NTg3OCwzNDYxNT
-M2MjIsMTk5ODgwMzA4MCwtMjA2MTQzMjc1Miw5NDk0MTE4OF19
-
+eyJoaXN0b3J5IjpbLTE2NDkwNDE3NTUsNzE4NTk1ODc4LDM0Nj
+E1MzYyMiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4
+XX0=
 -->
