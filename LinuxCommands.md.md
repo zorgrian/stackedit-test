@@ -501,8 +501,13 @@ Highlight changing output.
 ```bash
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
+### Then drill down
+```bash
+du -h --max-depth=1 /home/zorgrian | sort -h
+```
 
 Keep in mind that you can add more Linux commands to this list. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbNTkyNjU5MjM3LC0yMDYxNDMyNzUyLDk0OT
+QxMTg4XX0=
 -->
