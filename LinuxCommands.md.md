@@ -432,11 +432,11 @@ find . -name "*.log" | xargs rm
 
 Write output to both screen and file.
 
-```
+```bash
 command | tee file.txt
 ```
 
----
+***
 
 ## column
 
@@ -446,7 +446,7 @@ Format output into columns.
 cat file | column -t
 ```
 
----
+***
 
 ## `lsof`
 
@@ -456,7 +456,7 @@ List open files.
 lsof
 ```
 
-```
+```bash
 lsof -i :80
 ```
 
@@ -466,13 +466,13 @@ lsof -i :80
 
 Network debugging tool.
 
-```
+```bash
 nc host port
 ```
 
 Example:
 
-```
+```bash
 nc localhost 80
 ```
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg5MTc3NzksOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbLTQ4MDY3OTE3OSw5NDk0MTE4OF19
 -->
