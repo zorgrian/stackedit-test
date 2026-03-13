@@ -34,36 +34,36 @@ lsblk -f
 ```
 Block devices with filesystem information.
 
-```
+```bash
 lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,UUID
 ```
 Detailed drive listing.
 
-```
+```bash
 df -h
 ```
 Disk usage.
 
-```
+```bash
 free -h
 ```
 Memory usage.
 
-```
+```bash
 du -sh *
 ```
 Directory sizes in current directory.
 
----
+***
 
 ## Files and Directories
 
-```
+```bash
 ls -lah
 ```
 Detailed directory listing.
 
-```
+```bash
 tree
 ```
 Display directory tree.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MDk2MjQ0LDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbLTYzMzU3NjIzMSw5NDk0MTE4OF19
 -->
