@@ -78,7 +78,7 @@ cp -r dir1 dir2
 ```
 Copy directory recursively.
 
-```
+```bash
 mv old new
 ```
 **Move or rename file:**
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTI3NjUzNiw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbLTc4NzA2NTM5Niw5NDk0MTE4OF19
 -->
