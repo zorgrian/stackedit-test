@@ -471,7 +471,7 @@ rsync -avz user@host:/path/ destination/
 
 ----------
 
-## scp
+## `scp`
 
 Secure copy over SSH.
 
@@ -576,7 +576,7 @@ cat file | column -t
 
 ----------
 
-## lsof
+## `lsof`
 
 List open files.
 
@@ -592,7 +592,7 @@ lsof -i :80
 
 ----------
 
-## nc (netcat)
+## `nc (netcat)`
 
 Network debugging tool.
 
@@ -610,7 +610,7 @@ nc localhost 80
 
 ----------
 
-## strace
+## `strace`
 
 Trace system calls.
 
@@ -668,6 +668,6 @@ sudo du -ah / | sort -rh | head -20
 
 This document can be extended over time as additional useful commands are discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjE4NzEyMCwxOTk4ODAzMDgwLC0yMD
-YxNDMyNzUyLDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbMzQ2MTUzNjIyLDE5OTg4MDMwODAsLTIwNj
+E0MzI3NTIsOTQ5NDExODhdfQ==
 -->
