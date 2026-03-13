@@ -151,7 +151,7 @@ tail file
 ```
 Last lines.
 
-```
+```bash
 tail -f logfile
 ```
 Follow a log file live.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQyMTIyNTEsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbMTkzMDcyMzIxNyw5NDk0MTE4OF19
 -->
