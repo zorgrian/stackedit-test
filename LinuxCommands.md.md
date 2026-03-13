@@ -301,7 +301,7 @@ journalctl -xe
 ```
 Recent errors.
 
-```
+```bash
 journalctl -u service
 ```
 Logs for a service.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODcwNTk4NDMsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbMTMzMTU1MjI5Nyw5NDk0MTE4OF19
 -->
