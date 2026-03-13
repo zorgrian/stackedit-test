@@ -242,27 +242,27 @@ Show public IP.
 
 # Processes
 
-```
+```bash
 ps aux
 ```
 List processes.
 
-```
+```bash
 top
 ```
 Process monitor.
 
-```
+```bash
 htop
 ```
 Interactive process monitor.
 
-```
+```bash
 kill PID
 ```
 Terminate process.
 
-```
+```bash
 kill -9 PID
 ```
 Force terminates process.
@@ -271,11 +271,11 @@ Force terminates process.
 
 # Package Management (Debian / Ubuntu)
 
-```
+```bash
 sudo apt update
 ```
 
-```
+```bash
 sudo apt upgrade
 ```
 
@@ -283,7 +283,7 @@ sudo apt upgrade
 sudo apt install package
 ```
 
-```
+```bash
 sudo apt remove package
 ```
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTA3ODc2NCw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbLTE0MzY2NTU4MTIsOTQ5NDExODhdfQ==
 -->
