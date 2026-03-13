@@ -2,7 +2,7 @@
 
 ---
 
-# System Information
+## System Information
 
 ```
 uname -a
@@ -56,7 +56,7 @@ Directory sizes in current directory.
 
 ---
 
-# Files and Directories
+## Files and Directories
 
 ```
 ls -lah
@@ -105,7 +105,7 @@ Create nested directories.
 
 ***
 
-# File Searching
+## File Searching
 
 ```
 find . -name "filename"
@@ -129,7 +129,7 @@ Show program location.
 
 ***
 
-# Text Processing
+## Text Processing
 
 ```
 cat file
@@ -173,7 +173,7 @@ Count lines.
 
 ---
 
-# Permissions
+## Permissions
 
 ```
 chmod +x script.sh
@@ -192,7 +192,7 @@ Change ownership.
 
 ***
 
-# Disk and File systems
+## Disk and File systems
 
 ```bash
 mount
@@ -211,7 +211,7 @@ Show filesystem UUIDs.
 
 ***
 
-# Networking
+## Networking
 
 ```
 ip a
@@ -240,7 +240,7 @@ Show public IP.
 
 ***
 
-# Processes
+## Processes
 
 ```bash
 ps aux
@@ -269,7 +269,7 @@ Force terminates process.
 
 ***
 
-# Package Management (Debian / Ubuntu)
+## Package Management (Debian / Ubuntu)
 
 ```bash
 sudo apt update
@@ -289,7 +289,7 @@ sudo apt remove package
 
 ***
 
-# System Logs
+## System Logs
 
 ```
 journalctl
@@ -308,7 +308,7 @@ Logs for a service.
 
 ***
 
-# systemctl
+## systemctl
 
 ```bash
 systemctl status service
@@ -324,9 +324,9 @@ systemctl stop service
 
 ***
 
-# File Transfer
+## File Transfer
 
-## rsync
+### rsync
 
 Efficient file synchronisation.
 
@@ -378,7 +378,7 @@ scp file user@host:/path/newname
 
 ---
 
-# `ssh`
+## `ssh`
 
 Remote login.
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODUxNzIwNSw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbLTIwNjQ5NTY4NjEsOTQ5NDExODhdfQ==
 -->
