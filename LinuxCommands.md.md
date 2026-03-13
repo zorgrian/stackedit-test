@@ -190,21 +190,21 @@ chown user:group file
 ```
 Change ownership.
 
----
+***
 
 # Disk and File systems
 
-```
+```bash
 mount
 ```
 Show mounted file systems.
 
-```
+```bash
 mount -a
 ```
 Mount everything in `/etc/fstab`.
 
-```
+```bash
 blkid
 ```
 Show filesystem UUIDs.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY2NTU4MTIsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbLTYzODUxNzIwNSw5NDk0MTE4OF19
 -->
