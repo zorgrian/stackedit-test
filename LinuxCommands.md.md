@@ -9,22 +9,22 @@ uname -a
 ```
 Show kernel and system information.
 
-```
+```bash
 hostnamectl
 ```
 Detailed system information including OS and architecture.
 
-```
+```bash
 uptime
 ```
 System uptime and load averages.
 
-```
+```bash
 lscpu
 ```
 CPU architecture and capabilities.
 
-```
+```bash
 lsblk
 ```
 List block devices.
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDg5ODI1MCw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbLTIwNDcyMTM4OTgsOTQ5NDExODhdfQ==
 -->
