@@ -406,7 +406,7 @@ ssh -p 2222 user@host
 
 Run a command repeatedly.
 
-```
+```bash
 watch command
 ```
 
@@ -502,5 +502,5 @@ Highlight changing output.
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyOTM5MjEsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbLTcyODkyNDI3LDk0OTQxMTg4XX0=
 -->
