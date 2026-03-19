@@ -668,7 +668,7 @@ sudo du -ah / | sort -rh | head -20
 ```bash
 sudo apt install nvtop
 ```
-Then to actually use this:
+**Then to actually use this:**
 ```bash
 nvtop
 ```
@@ -680,7 +680,7 @@ This is an astonishing command, as it shows the whole ostrich.
 
 This document can be extended over time as additional useful commands are discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0Nj
-E1MzYyMiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4
-XX0=
+eyJoaXN0b3J5IjpbMTgwNzYzMTYyNywtMTY3NTg2MzY2OSw3MT
+g1OTU4NzgsMzQ2MTUzNjIyLDE5OTg4MDMwODAsLTIwNjE0MzI3
+NTIsOTQ5NDExODhdfQ==
 -->
