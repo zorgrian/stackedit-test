@@ -482,7 +482,7 @@ Build command arguments from input.
 find . -name "*.log" | xargs rm
 ```
 
-----------
+***
 
 ## tee
 
@@ -490,10 +490,9 @@ Write output to both screen and file.
 
 ```bash
 command | tee file.txt
-
 ```
 
-----------
+***
 
 ## column
 
@@ -501,10 +500,9 @@ Format output into columns.
 
 ```bash
 cat file | column -t
-
 ```
 
-----------
+***
 
 ## `lsof`
 
@@ -512,15 +510,13 @@ List open files.
 
 ```bash
 lsof
-
 ```
 
 ```bash
 lsof -i :80
-
 ```
 
-----------
+***
 
 ## `nc (netcat)`
 
@@ -528,7 +524,6 @@ Network debugging tool.
 
 ```bash
 nc host port
-
 ```
 
 Example:
@@ -632,7 +627,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMxNTk3NjUsMTE5NTE5MjgyNSwxOD
+eyJoaXN0b3J5IjpbLTIxMjUwMDY2MjEsMTE5NTE5MjgyNSwxOD
 A3NjMxNjI3LC0xNjc1ODYzNjY5LDcxODU5NTg3OCwzNDYxNTM2
 MjIsMTk5ODgwMzA4MCwtMjA2MTQzMjc1Miw5NDk0MTE4OF19
 -->
