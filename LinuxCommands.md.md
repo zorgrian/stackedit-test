@@ -653,7 +653,6 @@ find / -type f -size +500M 2>/dev/null
 
 ```bash
 sudo du -ah / | sort -rh | head -20
-
 ```
 
 ***
@@ -703,7 +702,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjc0NzQwNCwxMTk1MTkyODI1LDE4MD
+eyJoaXN0b3J5IjpbMTU2NTQwOTYzNCwxMTk1MTkyODI1LDE4MD
 c2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYy
 MiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
