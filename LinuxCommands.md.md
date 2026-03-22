@@ -593,6 +593,7 @@ nvtop
 This is an astonishing command, as it shows the whole ostrich.
 
 ***
+
 ### How to zip an mdBook project — with a timestamp
 
 ```bash
@@ -627,7 +628,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjUwMDY2MjEsMTE5NTE5MjgyNSwxOD
-A3NjMxNjI3LC0xNjc1ODYzNjY5LDcxODU5NTg3OCwzNDYxNTM2
-MjIsMTk5ODgwMzA4MCwtMjA2MTQzMjc1Miw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbMzI4NDI3NTA5LDExOTUxOTI4MjUsMTgwNz
+YzMTYyNywtMTY3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIy
+LDE5OTg4MDMwODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
 -->
