@@ -158,7 +158,6 @@ Shows the program location.
 
 ```bash
 cat file
-
 ```
 
 Display file.
@@ -172,28 +171,24 @@ Scrollable viewer.
 
 ```bash
 head file
-
 ```
 
 First lines.
 
 ```bash
 tail file
-
 ```
 
 Last lines.
 
 ```bash
 tail -f logfile
-
 ```
 
 Follow a log file live.
 
 ```bash
 grep "text" file
-
 ```
 
 Search text.
@@ -218,14 +213,12 @@ Count lines.
 
 ```bash
 chmod +x script.sh
-
 ```
 
 Make file executable.
 
 ```bash
 chmod 644 file
-
 ```
 
 Set permissions.
@@ -679,7 +672,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzE2Mjg0OSwxMTk1MTkyODI1LDE4MD
+eyJoaXN0b3J5IjpbMTg5MTQ4MTMyOSwxMTk1MTkyODI1LDE4MD
 c2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYy
 MiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
