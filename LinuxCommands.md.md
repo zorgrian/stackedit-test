@@ -120,7 +120,6 @@ Create directory.
 
 ```bash
 mkdir -p path/to/dir
-
 ```
 
 Create nested directories.
@@ -684,7 +683,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM1NTc1LDExOTUxOTI4MjUsMTgwNz
+eyJoaXN0b3J5IjpbMjEyNTc3MzM5LDExOTUxOTI4MjUsMTgwNz
 YzMTYyNywtMTY3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIy
 LDE5OTg4MDMwODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
 -->
