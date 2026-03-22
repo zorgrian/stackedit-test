@@ -78,7 +78,6 @@ Detailed directory listing.
 
 ```bash
 tree
-
 ```
 
 Display directory tree.
@@ -691,7 +690,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg2MDg0MjAsMTE5NTE5MjgyNSwxOD
-A3NjMxNjI3LC0xNjc1ODYzNjY5LDcxODU5NTg3OCwzNDYxNTM2
-MjIsMTk5ODgwMzA4MCwtMjA2MTQzMjc1Miw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbMTgyNzg2Njk4LDExOTUxOTI4MjUsMTgwNz
+YzMTYyNywtMTY3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIy
+LDE5OTg4MDMwODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
 -->
