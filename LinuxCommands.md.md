@@ -675,20 +675,25 @@ nvtop
 This is an astonishing command, as it shows the whole ostrich.
 
 ***
-### How to zip a project — with a timestamp
+### How to zip an mdBook project — with a timestamp
 
 ```bash
 zip -r mdbook-backup-$(date +%Y-%m-%d).zip . \
     -x "*.git*" -x "book/*"
 ```
-    
+## Why exclude these?
+
+-   `.git` → huge, unnecessary
+-   `book/` → generated output (rebuildable)
+
+👉 This keeps your backup **clean and small**    
 
 
 ### Note:
 
 This document can be extended over time as additional useful commands are discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcxNzkwNjMsMTgwNzYzMTYyNywtMT
-Y3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIyLDE5OTg4MDMw
-ODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbMTkzODE3NjA2LDE4MDc2MzE2MjcsLTE2Nz
+U4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYyMiwxOTk4ODAzMDgw
+LC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
