@@ -339,51 +339,45 @@ sudo apt install package
 sudo apt remove package
 ```
 
-----------
+***
 
 ## System Logs
 
 ```bash
 journalctl
-
 ```
 
 System logs.
 
 ```bash
 journalctl -xe
-
 ```
 
 Recent errors.
 
 ```bash
 journalctl -u service
-
 ```
 
 Logs for a service.
 
-----------
+***
 
 ## systemctl
 
 ```bash
 systemctl status service
-
 ```
 
 ```bash
 systemctl start service
-
 ```
 
 ```bash
 systemctl stop service
-
 ```
 
-----------
+***
 
 ## File Transfer
 
@@ -393,32 +387,26 @@ Efficient file synchronisation.
 
 ```bash
 rsync -av source/ destination/
-
 ```
 
 ```bash
 rsync -av source/ user@host:/path/
-
 ```
 
 ```bash
 rsync -av user@host:/path/ destination/
-
 ```
 
 ```bash
 rsync -av --progress source/ destination/
-
 ```
 
 ```bash
 rsync -av --delete source/ destination/
-
 ```
 
 ```bash
 rsync -avz user@host:/path/ destination/
-
 ```
 
 ----------
@@ -429,7 +417,6 @@ Secure copy over SSH.
 
 ```bash
 scp file user@host:/path/
-
 ```
 
 ```bash
@@ -439,15 +426,13 @@ scp user@host:/path/file .
 
 ```bash
 scp -r directory user@host:/path/
-
 ```
 
 ```bash
 scp file user@host:/path/newname
-
 ```
 
-----------
+***
 
 ## ssh
 
@@ -654,7 +639,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxOTI1ODIxLDExOTUxOTI4MjUsMTgwNz
+eyJoaXN0b3J5IjpbNzc2OTMwODk1LDExOTUxOTI4MjUsMTgwNz
 YzMTYyNywtMTY3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIy
 LDE5OTg4MDMwODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
 -->
