@@ -32,7 +32,6 @@ CPU architecture and capabilities.
 
 ```bash
 lsblk
-
 ```
 
 List block devices.
@@ -698,7 +697,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgwMzk5NjQsMTE5NTE5MjgyNSwxOD
+eyJoaXN0b3J5IjpbLTExNjQ5NTg3NjYsMTE5NTE5MjgyNSwxOD
 A3NjMxNjI3LC0xNjc1ODYzNjY5LDcxODU5NTg3OCwzNDYxNTM2
 MjIsMTk5ODgwMzA4MCwtMjA2MTQzMjc1Miw5NDk0MTE4OF19
 -->
