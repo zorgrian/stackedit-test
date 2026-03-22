@@ -440,25 +440,21 @@ Remote login.
 
 ```bash
 ssh user@host
-
 ```
 
 ```bash
 ssh user@host "command"
-
 ```
 
 ```bash
 ssh -X user@host
-
 ```
 
 ```bash
 ssh -p 2222 user@host
-
 ```
 
-----------
+***
 
 ## Terminal Power Tools
 
@@ -468,17 +464,15 @@ Run a command repeatedly.
 
 ```bash
 watch command
-
 ```
 
 Example:
 
 ```bash
 watch -n 2 df -h
-
 ```
 
-----------
+***
 
 ## xargs
 
@@ -486,7 +480,6 @@ Build command arguments from input.
 
 ```bash
 find . -name "*.log" | xargs rm
-
 ```
 
 ----------
@@ -639,7 +632,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2OTMwODk1LDExOTUxOTI4MjUsMTgwNz
-YzMTYyNywtMTY3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIy
-LDE5OTg4MDMwODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbLTE0ODMxNTk3NjUsMTE5NTE5MjgyNSwxOD
+A3NjMxNjI3LC0xNjc1ODYzNjY5LDcxODU5NTg3OCwzNDYxNTM2
+MjIsMTk5ODgwMzA4MCwtMjA2MTQzMjc1Miw5NDk0MTE4OF19
 -->
