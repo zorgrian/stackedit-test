@@ -687,13 +687,17 @@ zip -r mdbook-backup-$(date +%Y-%m-%d).zip . \
 -   `book/` → generated output (rebuildable)
 
 👉 This keeps your backup **clean and small**    
+### 📦 Example result
 
+```bash
+mdbook-backup-2026-03-22.zip
+```
 
 ### Note:
 
 This document can be extended over time as additional useful commands are discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODE3NjA2LDE4MDc2MzE2MjcsLTE2Nz
+eyJoaXN0b3J5IjpbNTU1NjIyNjI1LDE4MDc2MzE2MjcsLTE2Nz
 U4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYyMiwxOTk4ODAzMDgw
 LC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
