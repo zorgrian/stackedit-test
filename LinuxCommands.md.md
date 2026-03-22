@@ -26,7 +26,6 @@ System uptime and load averages.
 
 ```bash
 lscpu
-
 ```
 
 CPU architecture and capabilities.
@@ -699,7 +698,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDI4NjQ0NiwxMTk1MTkyODI1LDE4MD
-c2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYy
-MiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbLTE2ODgwMzk5NjQsMTE5NTE5MjgyNSwxOD
+A3NjMxNjI3LC0xNjc1ODYzNjY5LDcxODU5NTg3OCwzNDYxNTM2
+MjIsMTk5ODgwMzA4MCwtMjA2MTQzMjc1Miw5NDk0MTE4OF19
 -->
