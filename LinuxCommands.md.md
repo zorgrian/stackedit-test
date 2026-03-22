@@ -635,7 +635,6 @@ Quick overview of filesystem usage.
 
 ```bash
 sudo du -xh / --max-depth=1 2>/dev/null | sort -h
-
 ```
 
 ### Drill down into home directory
@@ -706,7 +705,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODM2MjIxOCwxMTk1MTkyODI1LDE4MD
+eyJoaXN0b3J5IjpbMTI5Mjg1MTIyNCwxMTk1MTkyODI1LDE4MD
 c2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYy
 MiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
