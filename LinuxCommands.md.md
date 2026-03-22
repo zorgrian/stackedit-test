@@ -662,7 +662,7 @@ sudo du -ah / | sort -rh | head -20
 
 ```
 
-*****
+***
 
 ### GPU activity
 ```bash
@@ -709,7 +709,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTk5NDAzOCwxMTk1MTkyODI1LDE4MD
+eyJoaXN0b3J5IjpbLTMyMDA2NjQyMiwxMTk1MTkyODI1LDE4MD
 c2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYy
 MiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
