@@ -62,7 +62,6 @@ Memory usage.
 
 ```bash
 du -sh *
-
 ```
 
 Directory sizes in current directory.
@@ -693,7 +692,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjYxMzU4NiwxMTk1MTkyODI1LDE4MD
+eyJoaXN0b3J5IjpbMTcxODY3MTc0NCwxMTk1MTkyODI1LDE4MD
 c2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYy
 MiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
