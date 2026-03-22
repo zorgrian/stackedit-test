@@ -605,10 +605,9 @@ Example:
 
 ```bash
 nc localhost 80
-
 ```
 
-----------
+***
 
 ## `strace`
 
@@ -616,7 +615,6 @@ Trace system calls.
 
 ```bash
 strace program
-
 ```
 
 ----------
@@ -709,7 +707,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDA2NjQyMiwxMTk1MTkyODI1LDE4MD
+eyJoaXN0b3J5IjpbMTAxMzQ4ODUxNCwxMTk1MTkyODI1LDE4MD
 c2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYy
 MiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
