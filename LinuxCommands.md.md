@@ -235,21 +235,18 @@ Change ownership.
 
 ```bash
 mount
-
 ```
 
 Show mounted filesystems.
 
 ```bash
 mount -a
-
 ```
 
 Mount everything in `/etc/fstab`.
 
 ```bash
 blkid
-
 ```
 
 Show filesystem UUIDs.
@@ -260,100 +257,86 @@ Show filesystem UUIDs.
 
 ```bash
 ip a
-
 ```
 
 Show network interfaces.
 
 ```bash
 ip r
-
 ```
 
 Routing table.
 
 ```bash
 ping host
-
 ```
 
 Test connectivity.
 
 ```bash
 ss -tuln
-
 ```
 
 Show listening ports.
 
 ```bash
 curl ifconfig.me
-
 ```
 
 Show public IP.
 
-----------
+***
 
 ## Processes
 
 ```bash
 ps aux
-
 ```
 
 List processes.
 
 ```bash
 top
-
 ```
 
 Process monitor.
 
 ```bash
 htop
-
 ```
 
 Interactive process monitor.
 
 ```bash
 kill PID
-
 ```
 
 Terminate process.
 
 ```bash
 kill -9 PID
-
 ```
 
 Force terminate-process.
 
-----------
+***
 
 ## Package Management (Debian / Ubuntu)
 
 ```bash
 sudo apt update
-
 ```
 
 ```bash
 sudo apt upgrade
-
 ```
 
 ```bash
 sudo apt install package
-
 ```
 
 ```bash
 sudo apt remove package
-
 ```
 
 ----------
@@ -671,7 +654,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDE0MDE0MSwxMTk1MTkyODI1LDE4MD
-c2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYy
-MiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbMzkxOTI1ODIxLDExOTUxOTI4MjUsMTgwNz
+YzMTYyNywtMTY3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIy
+LDE5OTg4MDMwODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
 -->
