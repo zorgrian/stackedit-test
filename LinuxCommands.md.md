@@ -130,28 +130,24 @@ Create nested directories.
 
 ```bash
 find . -name "filename"
-
 ```
 
 Find file by name.
 
 ```bash
 find . -type f -size +100M
-
 ```
 
 Find files larger than 100MB.
 
 ```bash
 locate filename
-
 ```
 
 Fast indexed search.
 
 ```bash
 which program
-
 ```
 
 Shows the program location.
@@ -683,7 +679,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTc3MzM5LDExOTUxOTI4MjUsMTgwNz
-YzMTYyNywtMTY3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIy
-LDE5OTg4MDMwODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbLTU3MzE2Mjg0OSwxMTk1MTkyODI1LDE4MD
+c2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYy
+MiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
