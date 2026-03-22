@@ -674,13 +674,16 @@ nvtop
 ```
 This is an astonishing command, as it shows the whole ostrich.
 
-----------
+***
+### How to zip a project — with a timestamp
+
+
 
 ### Note:
 
 This document can be extended over time as additional useful commands are discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzYzMTYyNywtMTY3NTg2MzY2OSw3MT
-g1OTU4NzgsMzQ2MTUzNjIyLDE5OTg4MDMwODAsLTIwNjE0MzI3
-NTIsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbLTEzNTY0MjMwNzUsMTgwNzYzMTYyNywtMT
+Y3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIyLDE5OTg4MDMw
+ODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
 -->
