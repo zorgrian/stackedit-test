@@ -693,13 +693,15 @@ zip -r mdbook-backup-$(date +%Y-%m-%d).zip . \
 mdbook-backup-2026-03-22.zip
 ```
 ### 🚀 Restore later
-
+```bash
+unzip mdbook-backup-2026-03-22.zip -d restore-folder
+```
 
 ### Note:
 
 This document can be extended over time as additional useful commands are discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3NzM0NDk5LDE4MDc2MzE2MjcsLTE2Nz
-U4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYyMiwxOTk4ODAzMDgw
-LC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbMTE5NTE5MjgyNSwxODA3NjMxNjI3LC0xNj
+c1ODYzNjY5LDcxODU5NTg3OCwzNDYxNTM2MjIsMTk5ODgwMzA4
+MCwtMjA2MTQzMjc1Miw5NDk0MTE4OF19
 -->
