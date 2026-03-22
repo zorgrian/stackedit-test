@@ -696,12 +696,18 @@ mdbook-backup-2026-03-22.zip
 ```bash
 unzip mdbook-backup-2026-03-22.zip -d restore-folder
 ```
+### A better version
+```bash
+zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
+    /mnt/DATA/YOOFAB-MKDOCS-8-mdbook \
+    -x "*.git*" -x "*/book/*"
+```
 
 ### Note:
 
 This document can be extended over time as additional useful commands are discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTE5MjgyNSwxODA3NjMxNjI3LC0xNj
-c1ODYzNjY5LDcxODU5NTg3OCwzNDYxNTM2MjIsMTk5ODgwMzA4
-MCwtMjA2MTQzMjc1Miw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbMTU2MTY4NjYxMiwxMTk1MTkyODI1LDE4MD
+c2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYy
+MiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
