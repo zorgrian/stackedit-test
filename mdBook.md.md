@@ -37,7 +37,11 @@ mdbook -V
 ```bash
 cargo search mdbook
 ```
+## 👉 Next step (the real answer)
 
+Go here:
+
+👉 https://github.com/rust-lang/mdBook/releases
 
 ### ⚠️ If You Get Weird Behaviour
 Sometimes old binaries linger.
@@ -171,6 +175,6 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzkyMDQ4LC05NjUyOTM1MTgsLTEzNT
-k2MzM1MzFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTU5NDkxODIsLTcyNzkyMDQ4LC05Nj
+UyOTM1MTgsLTEzNTk2MzM1MzFdfQ==
 -->
