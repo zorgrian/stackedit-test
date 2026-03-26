@@ -68,6 +68,16 @@ Rust projects include a file:
 ```
 Cargo.lock
 ```
+**This file contains:**
+
+*   exact versions of every dependency
+*   full dependency tree
+*   versions known to work together
+
+Without `--locked`
+
+Cargo does this:
+
 
 ***
 ## 🧠 Bonus (Useful Later)
@@ -78,5 +88,5 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODM1NTc5MiwtMTM1OTYzMzUzMV19
+eyJoaXN0b3J5IjpbMTYxMDYzOTY2MywtMTM1OTYzMzUzMV19
 -->
