@@ -78,6 +78,15 @@ Without `--locked`
 
 Cargo does this:
 
+```
+Cargo.toml → resolve dependencies → pick latest compatible versions
+```
+
+👉 It may choose:
+
+*   newer minor versions
+*   newer patch versions
+*  This will be a bummer
 
 ***
 ## 🧠 Bonus (Useful Later)
@@ -88,5 +97,6 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDYzOTY2MywtMTM1OTYzMzUzMV19
+eyJoaXN0b3J5IjpbLTIwNDY2Mjc5MDksLTEzNTk2MzM1MzFdfQ
+==
 -->
