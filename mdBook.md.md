@@ -32,6 +32,10 @@ mdbook --version
 OR
 mdbook -V
 ```
+### 🎯 Check Latest Available Version
+
+
+
 ### ⚠️ If You Get Weird Behaviour
 Sometimes old binaries linger.
 
@@ -164,5 +168,6 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTI5MzUxOCwtMTM1OTYzMzUzMV19
+eyJoaXN0b3J5IjpbODU2MjI3MjIyLC05NjUyOTM1MTgsLTEzNT
+k2MzM1MzFdfQ==
 -->
