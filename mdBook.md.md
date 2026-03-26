@@ -48,7 +48,10 @@ Usually:
 
 ## 🧹 Optional Clean Rebuild (If Something Feels Off)
 
-
+```bash
+cargo uninstall mdbook
+cargo install mdbook
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjMzOTA4NV19
+eyJoaXN0b3J5IjpbMjAzMDg5NTIwOF19
 -->
