@@ -86,7 +86,7 @@ Cargo.toml → resolve dependencies → pick latest compatible versions
 
 *   newer minor versions
 *   newer patch versions
-*  This will be a bummer
+*   this will be a bummer
 
 ***
 ## 🧠 Bonus (Useful Later)
@@ -97,6 +97,5 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY2Mjc5MDksLTEzNTk2MzM1MzFdfQ
-==
+eyJoaXN0b3J5IjpbMTA5NzIzODQyOSwtMTM1OTYzMzUzMV19
 -->
