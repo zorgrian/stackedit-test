@@ -40,6 +40,11 @@ Check location:
 ```bash
 which mdbook
 ```
+Usually:
+
+```bash
+~/.cargo/bin/mdbook
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY2MjE3MzFdfQ==
+eyJoaXN0b3J5IjpbLTUzMjcyNjk4MF19
 -->
