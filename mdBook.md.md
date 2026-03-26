@@ -137,6 +137,16 @@ some-crate 1.2.3   (exact version in Cargo.lock)
     *   build failures
     *   behaviour changes
 
+# ☕ Simple Analogy
+
+Without `--locked`:
+
+> “Give me something compatible”
+
+With `--locked`:
+
+> “Give me exactly what the author used”
+
 ***
 ## 🧠 Bonus (Useful Later)
 
@@ -146,5 +156,5 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzM4MzM5NSwtMTM1OTYzMzUzMV19
+eyJoaXN0b3J5IjpbMTk0NzM0NDY1MSwtMTM1OTYzMzUzMV19
 -->
