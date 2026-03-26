@@ -45,6 +45,10 @@ Usually:
 ```bash
 ~/.cargo/bin/mdbook
 ```
+
+## 🧹 Optional Clean Rebuild (If Something Feels Off)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjcyNjk4MF19
+eyJoaXN0b3J5IjpbLTkxNjMzOTA4NV19
 -->
