@@ -5,9 +5,12 @@ The most essential thing about **mdBook** is that it can be installed via many r
 ***
 ### 🧠 How mdBook Is Installed (Brief Reminder)
 
+mdBook is installed via Rust’s package manager:
+
+
 **Commands:**
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDYwNzU3OTldfQ==
+eyJoaXN0b3J5IjpbLTkyNjIyMzMyNF19
 -->
