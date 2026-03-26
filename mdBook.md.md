@@ -24,6 +24,9 @@ cargo install mdbook --force
 *  downloads latest mdBook
 * rebuilds it
 *   replaces existing binary
+
+### 🧪 Check Version
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NjI5ODY5XX0=
+eyJoaXN0b3J5IjpbNzczNDgyOTU4XX0=
 -->
