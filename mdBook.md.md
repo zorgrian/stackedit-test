@@ -129,7 +129,7 @@ some-crate 1.2.3   (exact version in Cargo.lock)
 *   exactly what the author tested
 *   fewer “it broke for no reason” moments
 
-## ❌ Without it
+### ❌ Without it
 
 *   you may get newer dependencies
 *   occasionally introduces:
@@ -146,6 +146,5 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM2Mjg0NDAsLTEzNTk2MzM1MzFdfQ
-==
+eyJoaXN0b3J5IjpbMTI4MzM4MzM5NSwtMTM1OTYzMzUzMV19
 -->
