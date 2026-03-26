@@ -121,6 +121,14 @@ Cargo installs:
 ```
 some-crate 1.2.3   (exact version in Cargo.lock)
 ```
+## 🎯 Why This Matters
+
+### ✔ With `--locked`
+
+*  reproducible builds
+*   exactly what the author tested
+*   fewer “it broke for no reason” moments
+
 
 ***
 ## 🧠 Bonus (Useful Later)
@@ -131,6 +139,6 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzcxNjEwNzIsLTEzNTk2MzM1MzFdfQ
+eyJoaXN0b3J5IjpbLTIxMDc4NjM5OTEsLTEzNTk2MzM1MzFdfQ
 ==
 -->
