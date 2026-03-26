@@ -19,7 +19,11 @@ Run:
 ```bash
 cargo install mdbook --force
 ```
+## What this does
 
+*  downloads latest mdBook
+* rebuilds it
+*   replaces existing binary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU5ODU0NzldfQ==
+eyJoaXN0b3J5IjpbMTE5ODA3NDQ3OF19
 -->
