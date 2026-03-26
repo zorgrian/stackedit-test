@@ -151,9 +151,9 @@ With `--locked`:
 
 Because for tools like mdBook:
 
--   you don’t need bleeding-edge dependency updates
--   you want stability
--   you want predictability
+*   you don’t need bleeding-edge dependency updates
+*   you want stability
+*   you want predictability
 
 ***
 ## 🧠 Bonus (Useful Later)
@@ -164,5 +164,5 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTIwMzA5MywtMTM1OTYzMzUzMV19
+eyJoaXN0b3J5IjpbLTk2NTI5MzUxOCwtMTM1OTYzMzUzMV19
 -->
