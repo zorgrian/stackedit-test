@@ -27,6 +27,11 @@ cargo install mdbook --force
 
 ### 🧪 Check Version
 
+```bash
+mdbook --version
+OR
+mdbook -V
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNDgyOTU4XX0=
+eyJoaXN0b3J5IjpbLTI4NzE5MDkzMF19
 -->
