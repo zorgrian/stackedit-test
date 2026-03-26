@@ -6,7 +6,7 @@ The most essential thing about **mdBook** is that it can be installed via many r
 
 ### 🧠 How mdBook Is Installed (Brief Reminder)
 
-mdBook is best installed via Rust’s package manager:
+**mdBook** is best installed via Rust’s package manager:
 ```bash
 cargo install mdbook
 ```
@@ -21,5 +21,5 @@ cargo install mdbook --force
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDAxOTkxMV19
+eyJoaXN0b3J5IjpbLTEyMzU5ODU0NzldfQ==
 -->
