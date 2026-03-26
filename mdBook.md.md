@@ -106,6 +106,21 @@ Let’s say mdBook depends on:
 ```TOML
 some-crate = "1.2"
 ```
+### Without `--locked`
+
+Cargo might install:
+
+```
+some-crate 1.2.7   (latest compatible)
+```
+
+### With `--locked`
+
+Cargo installs:
+
+```
+some-crate 1.2.3   (exact version in Cargo.lock)
+```
 
 ***
 ## 🧠 Bonus (Useful Later)
@@ -116,5 +131,6 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjU1OTc4LC0xMzU5NjMzNTMxXX0=
+eyJoaXN0b3J5IjpbLTIxMzcxNjEwNzIsLTEzNTk2MzM1MzFdfQ
+==
 -->
