@@ -6,7 +6,7 @@ The most essential thing about **mdBook** is that it can be installed via many r
 
 ### 🧠 How mdBook Is Installed (Brief Reminder)
 
-mdBook is installed via Rust’s package manager:
+mdBook is best installed via Rust’s package manager:
 ```bash
 cargo install mdbook
 ```
@@ -16,7 +16,10 @@ So, updating = reinstalling the latest version.
 
 Run:
 
+```bash
+cargo install mdbook --force
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzUzNTY0OV19
+eyJoaXN0b3J5IjpbLTU5NDAxOTkxMV19
 -->
