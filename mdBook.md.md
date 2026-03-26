@@ -34,6 +34,9 @@ mdbook -V
 ```
 ### 🎯 Check Latest Available Version
 
+```bash
+cargo search mdbook
+```
 
 
 ### ⚠️ If You Get Weird Behaviour
@@ -168,6 +171,6 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2MjI3MjIyLC05NjUyOTM1MTgsLTEzNT
+eyJoaXN0b3J5IjpbLTcyNzkyMDQ4LC05NjUyOTM1MTgsLTEzNT
 k2MzM1MzFdfQ==
 -->
