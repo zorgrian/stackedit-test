@@ -64,7 +64,10 @@ cargo install mdbook --force --locked
 
 ## ⚙️ What Is Being “Locked”?
 
-
+Rust projects include a file:
+```
+Cargo.lock
+```
 
 ***
 ## 🧠 Bonus (Useful Later)
@@ -75,5 +78,5 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDE1OTA4MiwtMTM1OTYzMzUzMV19
+eyJoaXN0b3J5IjpbMTIwODM1NTc5MiwtMTM1OTYzMzUzMV19
 -->
