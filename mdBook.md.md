@@ -147,6 +147,14 @@ With `--locked`:
 
 > “Give me exactly what the author used”
 
+## 🧠 So Why Did I Suggest It?
+
+Because for tools like mdBook:
+
+-   you don’t need bleeding-edge dependency updates
+-   you want stability
+-   you want predictability
+
 ***
 ## 🧠 Bonus (Useful Later)
 
@@ -156,5 +164,5 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzM0NDY1MSwtMTM1OTYzMzUzMV19
+eyJoaXN0b3J5IjpbMTc0MTIwMzA5MywtMTM1OTYzMzUzMV19
 -->
