@@ -103,6 +103,10 @@ Cargo.lock → use EXACT versions → no changes allowed
 
 Let’s say mdBook depends on:
 
+```TOML
+some-crate = "1.2"
+```
+
 ***
 ## 🧠 Bonus (Useful Later)
 
@@ -112,6 +116,5 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDkyMjYxNDQsLTEzNTk2MzM1MzFdfQ
-==
+eyJoaXN0b3J5IjpbMTgyNjU1OTc4LC0xMzU5NjMzNTMxXX0=
 -->
