@@ -99,6 +99,10 @@ Cargo.lock → use EXACT versions → no changes allowed
 👉 No re-resolution  
 👉 No surprises
 
+## 🧪 Example (Concrete)
+
+Let’s say mdBook depends on:
+
 ***
 ## 🧠 Bonus (Useful Later)
 
@@ -108,5 +112,6 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjAxODEyOCwtMTM1OTYzMzUzMV19
+eyJoaXN0b3J5IjpbLTIwNDkyMjYxNDQsLTEzNTk2MzM1MzFdfQ
+==
 -->
