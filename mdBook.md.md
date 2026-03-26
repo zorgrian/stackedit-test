@@ -52,6 +52,15 @@ Usually:
 cargo uninstall mdbook
 cargo install mdbook
 ```
+
+### ⚡ Faster Updates (Optional Tip)
+
+If you update often:
+
+```bash 
+cargo install mdbook --force --locked
+```
+👉 ensures consistent dependency versions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDg5NTIwOF19
+eyJoaXN0b3J5IjpbMTI4NDk5MTg4OV19
 -->
