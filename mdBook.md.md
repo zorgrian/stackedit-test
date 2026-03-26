@@ -95,6 +95,9 @@ Cargo does this instead:
 ```
 Cargo.lock → use EXACT versions → no changes allowed
 ```
+👉 No upgrades  
+👉 No re-resolution  
+👉 No surprises
 
 ***
 ## 🧠 Bonus (Useful Later)
@@ -105,5 +108,5 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMTE3NzUyLC0xMzU5NjMzNTMxXX0=
+eyJoaXN0b3J5IjpbMjA5NjAxODEyOCwtMTM1OTYzMzUzMV19
 -->
