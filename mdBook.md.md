@@ -66,6 +66,10 @@ cargo install mdbook --force --locked
 ## 🧠 Bonus (Useful Later)
 
 Update everything Rust-related:
+
+```bash
+rustup update
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMDk3ODAxXX0=
+eyJoaXN0b3J5IjpbLTEzNTk2MzM1MzFdfQ==
 -->
