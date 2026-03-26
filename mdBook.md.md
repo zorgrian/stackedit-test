@@ -11,9 +11,7 @@ mdBook is installed via Rust’s package manager:
 cargo install mdbook
 ```
 
-**Commands:**
-* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTEwNjUxN119
+eyJoaXN0b3J5IjpbMTYwMTgwOTMzMV19
 -->
