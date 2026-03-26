@@ -10,8 +10,8 @@ mdBook is installed via Rust’s package manager:
 ```bash
 cargo install mdbook
 ```
-
+So, updating = reinstalling the latest version.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTgwOTMzMV19
+eyJoaXN0b3J5IjpbNDQxMzk0MDM4XX0=
 -->
