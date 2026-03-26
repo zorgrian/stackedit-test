@@ -32,6 +32,14 @@ mdbook --version
 OR
 mdbook -V
 ```
+### ⚠️ If You Get Weird Behaviour
+Sometimes old binaries linger.
+
+Check location:
+
+```bash
+which mdbook
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzE5MDkzMF19
+eyJoaXN0b3J5IjpbLTE5MzY2MjE3MzFdfQ==
 -->
