@@ -12,6 +12,11 @@ cargo install mdbook
 ```
 So, updating = reinstalling the latest version.
 
+### 🚀 Update mdBook (Simple)
+
+Run:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMzk0MDM4XX0=
+eyJoaXN0b3J5IjpbMjEwNzUzNTY0OV19
 -->
