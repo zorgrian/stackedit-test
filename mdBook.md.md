@@ -61,6 +61,11 @@ If you update often:
 cargo install mdbook --force --locked
 ```
 👉 ensures consistent dependency versions
+
+***
+## 🧠 Bonus (Useful Later)
+
+Update everything Rust-related:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDk5MTg4OV19
+eyJoaXN0b3J5IjpbOTQyMDk3ODAxXX0=
 -->
