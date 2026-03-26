@@ -74,15 +74,15 @@ Cargo.lock
 *   full dependency tree
 *   versions known to work together
 
-Without `--locked`
+**Without `--locked`**
 
-Cargo does this:
+**Cargo does this:**
 
 ```
 Cargo.toml → resolve dependencies → pick latest compatible versions
 ```
 
-👉 It may choose:
+**👉 It may choose:**
 
 *   newer minor versions
 *   newer patch versions
@@ -97,5 +97,6 @@ Update everything Rust-related:
 rustup update
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzIzODQyOSwtMTM1OTYzMzUzMV19
+eyJoaXN0b3J5IjpbLTIwMzMxNTI4NjcsLTEzNTk2MzM1MzFdfQ
+==
 -->
