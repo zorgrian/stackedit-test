@@ -4,7 +4,7 @@ A concise set of reliable commands for removing system-installed Chrome/Chromium
 
 ----------
 
-# 🔥 Remove APT-installed Chrome / Chromium
+## 🔥 Remove APT-installed Chrome / Chromium
 
 ## Check what is installed
 
@@ -34,9 +34,9 @@ sudo apt autoremove --purge
 
 ```
 
-----------
+***
 
-# 🧼 Optional: Remove old profile data
+## 🧼 Optional: Remove old profile data
 
 ⚠️ Only do this if you do NOT need old bookmarks or sessions.
 
@@ -49,7 +49,7 @@ rm -rf ~/.config/google-chrome
 
 ----------
 
-# 📦 Flatpak Management
+## 📦 Flatpak Management
 
 ## Update ALL Flatpak apps and runtimes
 
@@ -81,7 +81,7 @@ flatpak uninstall --unused
 
 ***
 
-# 🚀 Run Flatpak Chrome explicitly
+## 🚀 Run Flatpak Chrome explicitly
 
 ```bash
 flatpak run com.google.Chrome
@@ -90,7 +90,7 @@ flatpak run com.google.Chrome
 
 ***
 
-# 🧠 Create a deterministic launcher (recommended)
+## 🧠 Create a deterministic launcher (recommended)
 
 Avoid confusion between multiple Chrome installations.
 
@@ -106,7 +106,7 @@ chmod +x ~/bin/chrome-flatpak
 
 ```
 
-Usage:
+**Usage:**
 
 ```bash
 chrome-flatpak
@@ -133,7 +133,7 @@ flatpak run com.google.Chrome --version
 
 ***
 
-# 🧩 Useful Flatpak Debug / Permissions
+## 🧩 Useful Flatpak Debug / Permissions
 
 ## Show permissions
 
@@ -196,5 +196,5 @@ flatpak uninstall --unused
 
 If something behaves oddly, assume Flatpak permissions before assuming madness.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzMyMTg4Ml19
+eyJoaXN0b3J5IjpbOTE1MzE0NCwyMDczMzIxODgyXX0=
 -->
