@@ -158,7 +158,7 @@ flatpak override --user com.google.Chrome --filesystem=host
 
 ***
 
-# 🧼 Flatpak Deep Cleanup (optional)
+## 🧼 Flatpak Deep Cleanup (optional)
 
 Remove unused apps (interactive):
 
@@ -176,7 +176,7 @@ flatpak uninstall --unused
 
 ***
 
-# 🧾 Notes
+## 🧾 Notes
 
 -   Flatpak apps are sandboxed by default.
     
@@ -192,9 +192,9 @@ flatpak uninstall --unused
 
 ***
 
-# ☕ Final Thought
+## ☕ Final Thought
 
 If something behaves oddly, assume Flatpak permissions before assuming madness.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1MzE0NCwyMDczMzIxODgyXX0=
+eyJoaXN0b3J5IjpbNDMwNTc4MjUxLDIwNzMzMjE4ODJdfQ==
 -->
