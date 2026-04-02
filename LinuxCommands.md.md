@@ -138,7 +138,7 @@ Find file by name.
 find . -type f -size +100M
 ```
 
-Find files larger than 100MB.
+Find files larger than 100 MB.
 
 ```bash
 locate filename
@@ -408,6 +408,70 @@ rsync -av --delete source/ destination/
 ```bash
 rsync -avz user@host:/path/ destination/
 ```
+# How to use `rsync` to transfer directories from one Linux machine to another
+
+`rsync` is a powerful tool for transferring files and directories between Linux machines. It is efficient, fast, and can handle large amounts of data. Here’s how you can use `rsync` to transfer directories from one Linux machine to another:
+
+1. Open a terminal on the source machine (the machine where the directory is located).
+2. Use the following command to transfer the directory to the destination machine:
+
+```bash
+rsync -avz /path/to/source/directory/ user@destination_machine:/path/to/destination/directory/
+```
+
+Replace `/path/to/source/directory/` with the actual path of the directory you want to transfer, `user` with your username on the destination machine, `destination_machine` with the IP address or `hostname` of the destination machine, and `/path/to/destination/directory/` with the desired path on the destination machine.
+3. Press Enter to execute the command. `rsync` will start transferring the files and directories from the source machine to the destination machine. The `-avz` options stand for:
+* `-a`: Archive mode; it preserves symbolic links, permissions, timestamps, and other file attributes.
+* `-v`: Verbose mode; it provides detailed output of the transfer process.
+* `-z`: Compress file data during the transfer, which can speed up the transfer if the files are large.
+4. Once the transfer is complete, you can verify that the files have been successfully transferred by logging into the destination machine and checking the destination directory.    
+
+Note: Make sure that you have SSH access to the destination machine and that `rsync` is installed on both machines. You may also need to configure your firewall settings to allow the transfer.
+
+## Examples
+
+* To transfer a directory named `my_folder` from the source machine to the destination machine:
+
+```bash
+rsync -avz /home/user/my_folder/ user@destination_machine:/home/user/destination_folder/
+```
+* To transfer a directory while excluding certain files (e.g., `*.log` files):
+
+```bash
+rsync -avz --exclude='*.log' /home/user/my_folder/ user@destination_machine:/home/user/destination_folder/
+```
+
+* To transfer a directory and delete files in the destination that are not present in the source:
+
+```bash
+rsync -avz --delete /home/user/my_folder/ user@destination_machine:/home/user/destination_folder/
+```
+
+By following these steps, you can easily transfer directories between Linux machines using `rsync`.
+
+## How to find the IP address of a Linux machine
+
+To find the IP address of a Linux machine, you can use the following command in the terminal:
+
+```bash
+ip addr show
+```
+This command will display the network interfaces and their associated IP addresses. Look for the interface that is connected to the network (e.g., `eth0`, `wlan0`, etc.) and find the `inet` entry, which will show the IP address.
+
+On some systems, you can also use the `ifconfig` command:
+
+```bash
+ifconfig
+```
+This command will also display the network interfaces and their IP addresses. Again, look for the relevant interface and find the `inet` entry to see the IP address.
+
+On a Chromebook, you can find the IP address by clicking on the network icon in the system tray, selecting the connected network, and looking for the IP address in the network details. Or, on crostini, you can use the `ip addr show` command in the terminal to find the IP address.
+
+
+This is ostrich-powered content. For more information, visit [ostrich-powered.com](https://ostrich-powered.com).
+
+
+
 
 ***
 
@@ -628,8 +692,8 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODE1NTIyMywzMjg0Mjc1MDksMTE5NT
-E5MjgyNSwxODA3NjMxNjI3LC0xNjc1ODYzNjY5LDcxODU5NTg3
-OCwzNDYxNTM2MjIsMTk5ODgwMzA4MCwtMjA2MTQzMjc1Miw5ND
-k0MTE4OF19
+eyJoaXN0b3J5IjpbMzAzMDg4OTM0LDMyODQyNzUwOSwxMTk1MT
+kyODI1LDE4MDc2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4
+LDM0NjE1MzYyMiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OT
+QxMTg4XX0=
 -->
