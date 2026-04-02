@@ -409,7 +409,7 @@ rsync -av --delete source/ destination/
 rsync -avz user@host:/path/ destination/
 ```
 
-----------
+***
 
 ## `scp`
 
@@ -628,7 +628,8 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4NDI3NTA5LDExOTUxOTI4MjUsMTgwNz
-YzMTYyNywtMTY3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIy
-LDE5OTg4MDMwODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbLTY0ODE1NTIyMywzMjg0Mjc1MDksMTE5NT
+E5MjgyNSwxODA3NjMxNjI3LC0xNjc1ODYzNjY5LDcxODU5NTg3
+OCwzNDYxNTM2MjIsMTk5ODgwMzA4MCwtMjA2MTQzMjc1Miw5ND
+k0MTE4OF19
 -->
