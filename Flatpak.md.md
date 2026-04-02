@@ -110,7 +110,6 @@ chmod +x ~/bin/chrome-flatpak
 
 ```bash
 chrome-flatpak
-
 ```
 
 ***
@@ -121,14 +120,12 @@ chrome-flatpak
 
 ```bash
 which google-chrome
-
 ```
 
 ## Check Flatpak Chrome version
 
 ```bash
 flatpak run com.google.Chrome --version
-
 ```
 
 ***
@@ -139,7 +136,6 @@ flatpak run com.google.Chrome --version
 
 ```bash
 flatpak info --show-permissions com.google.Chrome
-
 ```
 
 ## Override permissions (example: full device access)
@@ -153,7 +149,6 @@ flatpak override --user com.google.Chrome --device=all
 
 ```bash
 flatpak override --user com.google.Chrome --filesystem=host
-
 ```
 
 ***
@@ -196,5 +191,6 @@ flatpak uninstall --unused
 
 If something behaves oddly, assume Flatpak permissions before assuming madness.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwNTc4MjUxLDIwNzMzMjE4ODJdfQ==
+eyJoaXN0b3J5IjpbLTE5MTg5MzA4NTEsNDMwNTc4MjUxLDIwNz
+MzMjE4ODJdfQ==
 -->
