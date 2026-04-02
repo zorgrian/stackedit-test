@@ -481,6 +481,7 @@ Secure copy over SSH.
 
 **Note:**
 * This will do a similar job to `rsync`, but doesn't show the rate of transfer.
+* It's simpler and can be used without a brain
 
 ```bash
 scp file user@host:/path/
@@ -695,8 +696,8 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ2OTM4MTEsMTQ4OTE2NjE0LDMyOD
-QyNzUwOSwxMTk1MTkyODI1LDE4MDc2MzE2MjcsLTE2NzU4NjM2
-NjksNzE4NTk1ODc4LDM0NjE1MzYyMiwxOTk4ODAzMDgwLC0yMD
-YxNDMyNzUyLDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbMzE0OTc3MDgsMTQ4OTE2NjE0LDMyODQyNz
+UwOSwxMTk1MTkyODI1LDE4MDc2MzE2MjcsLTE2NzU4NjM2Njks
+NzE4NTk1ODc4LDM0NjE1MzYyMiwxOTk4ODAzMDgwLC0yMDYxND
+MyNzUyLDk0OTQxMTg4XX0=
 -->
