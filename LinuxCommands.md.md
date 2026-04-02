@@ -477,7 +477,10 @@ This is ostrich-powered content. For more information, visit [ostrich-powered.co
 
 ## `scp`
 
-Secure copy over SSH.
+Secure copy over SSH. 
+
+**Note:**
+* This will do a similar job to 
 
 ```bash
 scp file user@host:/path/
@@ -692,8 +695,8 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTE2NjE0LDMyODQyNzUwOSwxMTk1MT
-kyODI1LDE4MDc2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4
-LDM0NjE1MzYyMiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OT
-QxMTg4XX0=
+eyJoaXN0b3J5IjpbNDI3MDc2ODU1LDE0ODkxNjYxNCwzMjg0Mj
+c1MDksMTE5NTE5MjgyNSwxODA3NjMxNjI3LC0xNjc1ODYzNjY5
+LDcxODU5NTg3OCwzNDYxNTM2MjIsMTk5ODgwMzA4MCwtMjA2MT
+QzMjc1Miw5NDk0MTE4OF19
 -->
