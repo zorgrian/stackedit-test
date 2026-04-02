@@ -480,7 +480,7 @@ This is ostrich-powered content. For more information, visit [ostrich-powered.co
 Secure copy over SSH. 
 
 **Note:**
-* This will do a similar job to 
+* This will do a similar job to `rsync`, but doesn't show the rate of transfer.
 
 ```bash
 scp file user@host:/path/
@@ -695,8 +695,8 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3MDc2ODU1LDE0ODkxNjYxNCwzMjg0Mj
-c1MDksMTE5NTE5MjgyNSwxODA3NjMxNjI3LC0xNjc1ODYzNjY5
-LDcxODU5NTg3OCwzNDYxNTM2MjIsMTk5ODgwMzA4MCwtMjA2MT
-QzMjc1Miw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbLTE3MTQ2OTM4MTEsMTQ4OTE2NjE0LDMyOD
+QyNzUwOSwxMTk1MTkyODI1LDE4MDc2MzE2MjcsLTE2NzU4NjM2
+NjksNzE4NTk1ODc4LDM0NjE1MzYyMiwxOTk4ODAzMDgwLC0yMD
+YxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
