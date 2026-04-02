@@ -54,7 +54,7 @@ rm -rf ~/.config/google-chrome
 ## Update ALL Flatpak apps and runtimes
 
 It's a good idea to run this at least **once a week**. 
-
+Don't let this depress you.
 ```bash
 flatpak update
 ```
@@ -192,6 +192,6 @@ flatpak uninstall --unused
 
 If something behaves oddly, assume Flatpak permissions before assuming madness.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzQxMjU3LDQzMDU3ODI1MSwyMDczMz
-IxODgyXX0=
+eyJoaXN0b3J5IjpbOTU2MzY0MTc5LC04OTM0MTI1Nyw0MzA1Nz
+gyNTEsMjA3MzMyMTg4Ml19
 -->
