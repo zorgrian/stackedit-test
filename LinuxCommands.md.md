@@ -138,7 +138,7 @@ Find file by name.
 find . -type f -size +100M
 ```
 
-Find files larger than 100 MB.
+Find files larger than 100 MB.
 
 ```bash
 locate filename
@@ -408,7 +408,7 @@ rsync -av --delete source/ destination/
 ```bash
 rsync -avz user@host:/path/ destination/
 ```
-# How to use `rsync` to transfer directories from one Linux machine to another
+### How to use `rsync` to transfer directories from one Linux machine to another
 
 `rsync` is a powerful tool for transferring files and directories between Linux machines. It is efficient, fast, and can handle large amounts of data. Here’s how you can use `rsync` to transfer directories from one Linux machine to another:
 
@@ -692,7 +692,7 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMDg4OTM0LDMyODQyNzUwOSwxMTk1MT
+eyJoaXN0b3J5IjpbMTQ4OTE2NjE0LDMyODQyNzUwOSwxMTk1MT
 kyODI1LDE4MDc2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4
 LDM0NjE1MzYyMiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OT
 QxMTg4XX0=
