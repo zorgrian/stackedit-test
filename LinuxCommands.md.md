@@ -671,10 +671,10 @@ zip -r mdbook-backup-$(date +%Y-%m-%d).zip . \
 
 **Note:** The mdBook folder can be replaced with any folder name
 
-Example: we want to zip 	`MARKDOWN`, and this is a folder.
+Example: we want to zip 	`MACROVEND`, and this is a folder.
 
 ```bash
-zip -r mdbook-backup-$(date +%Y-%m-%d).zip MARKDOWN
+zip -r mdbook-backup-$(date +%Y-%m-%d).zip MACROVEND
 ```
 
 ## Why exclude these?
@@ -705,9 +705,9 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDU3NTQ2MiwxNzE4MDIwMjM3LDIwNT
-U1MzI4NTMsMTQ4OTE2NjE0LDMyODQyNzUwOSwxMTk1MTkyODI1
-LDE4MDc2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0Nj
-E1MzYyMiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4
-XX0=
+eyJoaXN0b3J5IjpbLTE2NzIzNDgwMzIsMTcxODAyMDIzNywyMD
+U1NTMyODUzLDE0ODkxNjYxNCwzMjg0Mjc1MDksMTE5NTE5Mjgy
+NSwxODA3NjMxNjI3LC0xNjc1ODYzNjY5LDcxODU5NTg3OCwzND
+YxNTM2MjIsMTk5ODgwMzA4MCwtMjA2MTQzMjc1Miw5NDk0MTE4
+OF19
 -->
