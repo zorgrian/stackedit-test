@@ -668,6 +668,8 @@ This is an astonishing command, as it shows the whole ostrich.
 zip -r mdbook-backup-$(date +%Y-%m-%d).zip . \
     -x "*.git*" -x "book/*"
 ```
+
+Note:
 ## Why exclude these?
 
 -   `.git` → huge, unnecessary
@@ -696,8 +698,8 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTUzMjg1MywxNDg5MTY2MTQsMzI4ND
-I3NTA5LDExOTUxOTI4MjUsMTgwNzYzMTYyNywtMTY3NTg2MzY2
-OSw3MTg1OTU4NzgsMzQ2MTUzNjIyLDE5OTg4MDMwODAsLTIwNj
-E0MzI3NTIsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbLTE1MTI3MzEyNTEsMjA1NTUzMjg1MywxND
+g5MTY2MTQsMzI4NDI3NTA5LDExOTUxOTI4MjUsMTgwNzYzMTYy
+NywtMTY3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIyLDE5OT
+g4MDMwODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
 -->
