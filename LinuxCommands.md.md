@@ -671,7 +671,12 @@ zip -r mdbook-backup-$(date +%Y-%m-%d).zip . \
 
 **Note:** The mdBook folder can be replaced with any folder name
 
-Example: we want to zip 	
+Example: we want to zip 	`MARKDOWN`, and this is a folder.
+
+```bash
+zip -r mdbook-backup-$(date +%Y-%m-%d).zip . \
+    -x "*.git*" -x "book/*"
+```
 
 ## Why exclude these?
 
@@ -701,8 +706,8 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMjYyMTQ2LDIwNTU1MzI4NTMsMTQ4OT
-E2NjE0LDMyODQyNzUwOSwxMTk1MTkyODI1LDE4MDc2MzE2Mjcs
-LTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYyMiwxOTk4OD
-AzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
+eyJoaXN0b3J5IjpbMTcxODAyMDIzNywyMDU1NTMyODUzLDE0OD
+kxNjYxNCwzMjg0Mjc1MDksMTE5NTE5MjgyNSwxODA3NjMxNjI3
+LC0xNjc1ODYzNjY5LDcxODU5NTg3OCwzNDYxNTM2MjIsMTk5OD
+gwMzA4MCwtMjA2MTQzMjc1Miw5NDk0MTE4OF19
 -->
