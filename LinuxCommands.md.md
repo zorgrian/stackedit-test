@@ -669,7 +669,8 @@ zip -r mdbook-backup-$(date +%Y-%m-%d).zip . \
     -x "*.git*" -x "book/*"
 ```
 
-Note:
+**Note:** The mdBook folder can be replaced with any folder name
+
 ## Why exclude these?
 
 -   `.git` → huge, unnecessary
@@ -698,8 +699,8 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI3MzEyNTEsMjA1NTUzMjg1MywxND
-g5MTY2MTQsMzI4NDI3NTA5LDExOTUxOTI4MjUsMTgwNzYzMTYy
-NywtMTY3NTg2MzY2OSw3MTg1OTU4NzgsMzQ2MTUzNjIyLDE5OT
-g4MDMwODAsLTIwNjE0MzI3NTIsOTQ5NDExODhdfQ==
+eyJoaXN0b3J5IjpbMzMwMzk1ODkyLDIwNTU1MzI4NTMsMTQ4OT
+E2NjE0LDMyODQyNzUwOSwxMTk1MTkyODI1LDE4MDc2MzE2Mjcs
+LTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0NjE1MzYyMiwxOTk4OD
+AzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4XX0=
 -->
