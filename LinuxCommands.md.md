@@ -674,8 +674,7 @@ zip -r mdbook-backup-$(date +%Y-%m-%d).zip . \
 Example: we want to zip 	`MARKDOWN`, and this is a folder.
 
 ```bash
-zip -r mdbook-backup-$(date +%Y-%m-%d).zip . \
-    -x "*.git*" -x "book/*"
+zip -r mdbook-backup-$(date +%Y-%m-%d).zip MARKDOWN
 ```
 
 ## Why exclude these?
@@ -706,8 +705,9 @@ zip -r /mnt/DATA/mdbook-backup-$(date +%Y-%m-%d-%H%M).zip \
 
 **This document can be extended over time as additional useful commands are discovered.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODAyMDIzNywyMDU1NTMyODUzLDE0OD
-kxNjYxNCwzMjg0Mjc1MDksMTE5NTE5MjgyNSwxODA3NjMxNjI3
-LC0xNjc1ODYzNjY5LDcxODU5NTg3OCwzNDYxNTM2MjIsMTk5OD
-gwMzA4MCwtMjA2MTQzMjc1Miw5NDk0MTE4OF19
+eyJoaXN0b3J5IjpbMTg5NDU3NTQ2MiwxNzE4MDIwMjM3LDIwNT
+U1MzI4NTMsMTQ4OTE2NjE0LDMyODQyNzUwOSwxMTk1MTkyODI1
+LDE4MDc2MzE2MjcsLTE2NzU4NjM2NjksNzE4NTk1ODc4LDM0Nj
+E1MzYyMiwxOTk4ODAzMDgwLC0yMDYxNDMyNzUyLDk0OTQxMTg4
+XX0=
 -->
