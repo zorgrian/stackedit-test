@@ -15,6 +15,19 @@ rclone copy pcloud:DATA /mnt/DATA --progress --checksum
 ## Or run the following:
 `backup-to-pcloud.sh`:
 
+```bash
+#!/usr/bin/env bash
+set -euo pipefail
+
+SRC="/mnt/DATA"
+DST="pcloud:DATA"
+
+echo "Backup: $SRC → $DST"
+read -p "Proceed? (yes/no): " ans
+[[ "$ans" == "yes" ]] || exit 1
+
+rclone copy "$SRC" "$DST" --progress --checksum
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDUzMjgxMCwxODcxODIwNjE3XX0=
+eyJoaXN0b3J5IjpbMTYwOTk3MjgxOSwxODcxODIwNjE3XX0=
 -->
